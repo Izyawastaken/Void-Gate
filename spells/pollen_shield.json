@@ -1,0 +1,235 @@
+{
+  "id": 1040,
+  "name": "Pollen Shield",
+  "skillType": 2,
+  "actionType": 1,
+  "targetType": 4,
+  "animationType": 1,
+  "cost": {
+    "Fire": 0,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 2,
+    "Wild": 0,
+    "Neutral": 0,
+    "Any": 0
+  },
+  "icons": {
+    "big": "f7fc54d5335b7e94b81a412b1742b056",
+    "small": "f882d3e3d63eeec448790b442c39234a",
+    "cut": "2cdf13bd76896524da5a03ec3b4df657"
+  },
+  "freeAction": 0,
+  "extraBlocks": [
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1807997069726768
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "0f5728fa4e3ec75c970c786ff8008aac",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "ShieldType": 0,
+      "ShieldAmount": 3,
+      "ShieldCount": 2,
+      "ApplyDelay": 0,
+      "OverrideTarget": 0,
+      "Target": 0,
+      "Buff": {
+        "fileID": 0
+      },
+      "AdditionalShield": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1807997069726768
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "ed087f5a45ca5fe7f626ab4c4307c1ed",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Buffs": [
+        {
+          "Buff": {
+            "fileID": 1665194173413138,
+            "guid": "0325b13b4c51d664ba316347fce3efbf",
+            "type": 2
+          },
+          "Stacks": 1
+        }
+      ],
+      "ApplyType": 0,
+      "ApplyDelay": 1,
+      "MultipleMonstersDelay": 0.15,
+      "IsRetaliate": 0,
+      "OverrideTarget": 1,
+      "Target": 1,
+      "AdditionalAether": 0,
+      "TargetHasBuff": {
+        "fileID": 0
+      },
+      "ConsumeBuff": {
+        "fileID": 0
+      },
+      "TargetHasBuffStacks": 0,
+      "ApplyInstantly": 0,
+      "PerDebuffStacks": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1807997069726768
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "f631f72b5505e2be05785e457a110293",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Offset": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "Duration": 0,
+      "ImpactTime": 0,
+      "OverrideTarget": 0,
+      "TargetOverride": 0,
+      "Children": [
+        {
+          "VFX": {
+            "fileID": 1978555037545122,
+            "guid": "0a6eb7b5485ae95449ab32d441697c71",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 0,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        },
+        {
+          "VFX": {
+            "fileID": 1737368307508527,
+            "guid": "8e7dd4d3786f20548a862452a06e5742",
+            "type": 2
+          },
+          "Delay": 0.8,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 0,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        }
+      ],
+      "OldChildrenSize": 2
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1807997069726768
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "5b8ccd57e2eb8791b31c13af54994420",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "playOnStart": 1,
+      "wwiseEvent": {
+        "idInternal": 0,
+        "valueGuidInternal": null,
+        "WwiseObjectReference": {
+          "fileID": 0
+        }
+      },
+      "singleTarget": 1,
+      "targetSelf": 0
+    }
+  ]
+}

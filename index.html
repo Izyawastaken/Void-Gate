@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>VoidGate</title>
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=JetBrains+Mono&family=Unica+One&display=swap" rel="stylesheet" />
+
+  <!-- Base CSS -->
+  <link rel="stylesheet" href="main.css" />
+
+  <!-- Smooth Scroll -->
+  <script defer src="https://cdn.jsdelivr.net/npm/smooth-scroll@16/dist/smooth-scroll.polyfills.min.js"></script>
+
+  <!-- Icons (Lucide) -->
+  <script src="https://unpkg.com/lucide@latest" defer></script>
+  <script src="index.js"></script>
+</head>
+
+<body>
+  <div id="app">
+    <header>
+      <h1>VoidGate</h1>
+      <p>Search through mysterious beings of the rift.</p>
+    </header>
+
+    <div class="search-container">
+      <input
+        type="text"
+        id="search"
+        placeholder="Search a monster..."
+        autocomplete="off"
+      />
+      <ul id="suggestions"></ul>
+    </div>
+<main id="monster-viewer" class="">
+  <div class="monster-entry"></div>
+  <div id="spell-viewer"></div>
+</main>
+
+
+
+    <footer>
+      <p>Made with ♥ by Izya</p>
+      <a href="https://github.com/Izyawastaken/VoidGate/issues" target="_blank">Report issues</a>
+    </footer>
+  </div>
+
+  <!-- Main script -->
+  <script src="script.js" defer></script>
+</body>
+</html>

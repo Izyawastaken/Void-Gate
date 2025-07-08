@@ -1,0 +1,226 @@
+{
+  "id": 1089,
+  "name": "Burn Conversion",
+  "skillType": 2,
+  "actionType": 1,
+  "targetType": 2,
+  "animationType": 1,
+  "cost": {
+    "Fire": 1,
+    "Water": 0,
+    "Wind": 0,
+    "Earth": 0,
+    "Wild": 0,
+    "Neutral": 0,
+    "Any": 0
+  },
+  "icons": {
+    "big": "03580175d36129843b4ac65d3aadef19",
+    "small": "26ca491a92eacd34aa89a1d0d359d3c1",
+    "cut": "a447c668eb45b894ca2e128763141e2c"
+  },
+  "freeAction": 1,
+  "extraBlocks": [
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1857822497545356
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "0b5cfee8b819ce08f526afcedd1f67e1",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "ConsumeBuff": {
+        "fileID": 1254857145070079,
+        "guid": "b5eff122e1928824f99694e06abf7b4e",
+        "type": 2
+      },
+      "ConsumeStacks": 2,
+      "ConsumeType": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1857822497545356
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "036ccf643429e830b0f38d1a7e02238f",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "GenerateType": 0,
+      "GenerateTargetsElementAether": 0,
+      "Aether": {
+        "Fire": 3,
+        "Water": 0,
+        "Wind": 0,
+        "Earth": 0,
+        "Wild": 0,
+        "Neutral": 0,
+        "Any": 0
+      },
+      "Delay": 0,
+      "ConsumeAllAetherFirst": 0,
+      "OverrideTarget": 0,
+      "Target": 0,
+      "Buff": {
+        "fileID": 0
+      },
+      "GenerateCap": 5,
+      "PerDebuffs": 8
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1857822497545356
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "f631f72b5505e2be05785e457a110293",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Offset": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "Duration": 0,
+      "ImpactTime": 0,
+      "OverrideTarget": 0,
+      "TargetOverride": 0,
+      "Children": [
+        {
+          "VFX": {
+            "fileID": 1673252827836959,
+            "guid": "71d228bbe47347b43af88369e642b40c",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 0,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        }
+      ],
+      "OldChildrenSize": 1
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1857822497545356
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "5b8ccd57e2eb8791b31c13af54994420",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "playOnStart": 1,
+      "wwiseEvent": {
+        "idInternal": 0,
+        "valueGuidInternal": null,
+        "WwiseObjectReference": {
+          "fileID": 0
+        }
+      },
+      "singleTarget": 1,
+      "targetSelf": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1857822497545356
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "4ac5db2621f820587cfa25fcc861e438",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Requirements": null,
+      "RequirementsTeam": 10000000,
+      "AndComparison": 0,
+      "Amount": 1
+    }
+  ]
+}

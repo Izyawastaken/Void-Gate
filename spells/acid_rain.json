@@ -1,0 +1,235 @@
+{
+  "id": 85,
+  "name": "Acid Rain",
+  "skillType": 0,
+  "actionType": 1,
+  "targetType": 1,
+  "animationType": 1,
+  "cost": {
+    "Fire": 0,
+    "Water": 2,
+    "Wind": 0,
+    "Earth": 1,
+    "Wild": 0,
+    "Neutral": 0,
+    "Any": 0
+  },
+  "icons": {
+    "big": null,
+    "small": null,
+    "cut": null
+  },
+  "freeAction": 0,
+  "extraBlocks": [
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1615591798578414
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "4d53f7a6e1006fe347a167ef2fc755e6",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Damage": 4,
+      "HitCount": 1,
+      "ApplyDelay": 0.5,
+      "BetweenHitsDelay": 0.3,
+      "MultipleEnemiesDelay": 0,
+      "AdditionalCritChance": 0,
+      "FirstHitAllwaysCritical": 0,
+      "AdditionalDamage": 0,
+      "AdditionalStagger": 0,
+      "AdditionalDamageType": 0,
+      "AetherToConsume": null,
+      "BuffsToCheck": [],
+      "UseCoreBuffsInstead": 0,
+      "UseCoreDebuffsInstead": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1615591798578414
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "ed087f5a45ca5fe7f626ab4c4307c1ed",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Buffs": [
+        {
+          "Buff": {
+            "fileID": 1859504275918678,
+            "guid": "22f70e71a9129c14ebb1ccf77532d7b2",
+            "type": 2
+          },
+          "Stacks": 1
+        }
+      ],
+      "ApplyType": 0,
+      "ApplyDelay": 0,
+      "MultipleMonstersDelay": 0.15,
+      "IsRetaliate": 0,
+      "OverrideTarget": 0,
+      "Target": 0,
+      "AdditionalAether": 0,
+      "TargetHasBuff": {
+        "fileID": 0
+      },
+      "ConsumeBuff": {
+        "fileID": 0
+      },
+      "TargetHasBuffStacks": 0,
+      "ApplyInstantly": 0,
+      "PerDebuffStacks": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1615591798578414
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "2d79cb81b2cd83116c05adc65639f6c6",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "BuffAmount": 3,
+      "ApplyDelay": 0,
+      "BuffType": 1,
+      "StealBuff": 0,
+      "OverrideTarget": 1,
+      "Target": 2
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1615591798578414
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "f631f72b5505e2be05785e457a110293",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Offset": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "Duration": 0,
+      "ImpactTime": 0,
+      "OverrideTarget": 0,
+      "TargetOverride": 0,
+      "Children": [
+        {
+          "VFX": {
+            "fileID": 1185749779641153,
+            "guid": "0e3e64d8f6899f0469b2ef4131c17081",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 0,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        },
+        {
+          "VFX": {
+            "fileID": 1996434034926457,
+            "guid": "0121e937e5a427a48815e53bbe5853df",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 1,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        }
+      ],
+      "OldChildrenSize": 2
+    }
+  ]
+}

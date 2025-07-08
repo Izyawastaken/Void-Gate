@@ -1,0 +1,202 @@
+{
+  "id": 1154,
+  "name": "Temporal Borealis",
+  "skillType": 0,
+  "actionType": 1,
+  "targetType": 3,
+  "animationType": 1,
+  "cost": {
+    "Fire": 0,
+    "Water": 1,
+    "Wind": 1,
+    "Earth": 0,
+    "Wild": 0,
+    "Neutral": 0,
+    "Any": 0
+  },
+  "icons": {
+    "big": "cc40d629b50b23043b255dc66dbd39e6",
+    "small": "5510e16b8a0c2a946ae2f3686e038d43",
+    "cut": "1853095497760ca4eb0eca3b63bbddcb"
+  },
+  "freeAction": 0,
+  "extraBlocks": [
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1825926141577924
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "ed087f5a45ca5fe7f626ab4c4307c1ed",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Buffs": [
+        {
+          "Buff": {
+            "fileID": 1393147114504525,
+            "guid": "d4ccc9e5e7051a641af56583f98199ec",
+            "type": 2
+          },
+          "Stacks": 1
+        }
+      ],
+      "ApplyType": 0,
+      "ApplyDelay": 0.5,
+      "MultipleMonstersDelay": 0.15,
+      "IsRetaliate": 0,
+      "OverrideTarget": 1,
+      "Target": 2,
+      "AdditionalAether": 0,
+      "TargetHasBuff": {
+        "fileID": 0
+      },
+      "ConsumeBuff": {
+        "fileID": 0
+      },
+      "TargetHasBuffStacks": 0,
+      "ApplyInstantly": 0,
+      "PerDebuffStacks": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1825926141577924
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "ecb61f9aa92df19d1e72d1fc957fa4c7",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "ResetTurn": 1,
+      "ResetFreeAction": 1,
+      "ApplyDelay": 0,
+      "OverrideTarget": 0,
+      "Target": 0
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1825926141577924
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "f631f72b5505e2be05785e457a110293",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Offset": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "Duration": 0,
+      "ImpactTime": 0,
+      "OverrideTarget": 0,
+      "TargetOverride": 0,
+      "Children": [
+        {
+          "VFX": {
+            "fileID": 1216616958172315,
+            "guid": "3fc1b682a407d3e41a60ea4a362e1a3b",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 0,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        }
+      ],
+      "OldChildrenSize": 1
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1825926141577924
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "5b8ccd57e2eb8791b31c13af54994420",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "playOnStart": 1,
+      "wwiseEvent": {
+        "idInternal": 0,
+        "valueGuidInternal": null,
+        "WwiseObjectReference": {
+          "fileID": 0
+        }
+      },
+      "singleTarget": 1,
+      "targetSelf": 0
+    }
+  ]
+}

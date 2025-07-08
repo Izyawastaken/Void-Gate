@@ -1,0 +1,200 @@
+{
+  "id": 837,
+  "name": "Healing Brew",
+  "skillType": 2,
+  "actionType": 1,
+  "targetType": 4,
+  "animationType": 1,
+  "cost": {
+    "Fire": 1,
+    "Water": 1,
+    "Wind": 0,
+    "Earth": 0,
+    "Wild": 0,
+    "Neutral": 0,
+    "Any": 0
+  },
+  "icons": {
+    "big": "f2d2266d354fab147983f8a755976e58",
+    "small": "3af0bfa00a9441f4cbd7c9b71422aa94",
+    "cut": "d3fe679a91148c8459fb2b4891f33f88"
+  },
+  "freeAction": 0,
+  "extraBlocks": [
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1439247146306070
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "38bc04018fb27180c97dadcabaeb63cc",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "HealAmount": 5,
+      "HealCount": 2,
+      "ApplyDelay": 0,
+      "OverrideTarget": 0,
+      "Target": 0,
+      "Condition": 0,
+      "Buff": {
+        "fileID": 0
+      }
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1439247146306070
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "036ccf643429e830b0f38d1a7e02238f",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "GenerateType": 0,
+      "GenerateTargetsElementAether": 0,
+      "Aether": {
+        "Fire": 1,
+        "Water": 1,
+        "Wind": 1,
+        "Earth": 1,
+        "Wild": 0,
+        "Neutral": 0,
+        "Any": 0
+      },
+      "Delay": 0,
+      "ConsumeAllAetherFirst": 0,
+      "OverrideTarget": 0,
+      "Target": 0,
+      "Buff": {
+        "fileID": 0
+      },
+      "GenerateCap": 5,
+      "PerDebuffs": 8
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1439247146306070
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "f631f72b5505e2be05785e457a110293",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "Offset": {
+        "x": 0,
+        "y": 0,
+        "z": -1
+      },
+      "Duration": 0,
+      "ImpactTime": 0,
+      "OverrideTarget": 0,
+      "TargetOverride": 0,
+      "Children": [
+        {
+          "VFX": {
+            "fileID": 1944805836548271,
+            "guid": "54c15caf26f94034ca53b6405bc17f50",
+            "type": 2
+          },
+          "Delay": 0,
+          "Offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "RandomizeOffset": 0,
+          "RelativeScale": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "FlipX": 0,
+          "FlipY": 0,
+          "SpawnAtBottomOfTarget": 0,
+          "SpawnForEveryEnemy": 1,
+          "PerMonsterDelay": 0,
+          "GetSpawnCountFromAction": 0,
+          "PerSpawnCountDelay": 0,
+          "SpawnCountType": 0,
+          "StacksToCheck": []
+        }
+      ],
+      "OldChildrenSize": 1
+    },
+    {
+      "m_ObjectHideFlags": 0,
+      "m_CorrespondingSourceObject": {
+        "fileID": 0
+      },
+      "m_PrefabInstance": {
+        "fileID": 0
+      },
+      "m_PrefabAsset": {
+        "fileID": 0
+      },
+      "m_GameObject": {
+        "fileID": 1439247146306070
+      },
+      "m_Enabled": 1,
+      "m_EditorHideFlags": 0,
+      "m_Script": {
+        "fileID": 11500000,
+        "guid": "5b8ccd57e2eb8791b31c13af54994420",
+        "type": 3
+      },
+      "m_Name": null,
+      "m_EditorClassIdentifier": null,
+      "playOnStart": 1,
+      "wwiseEvent": {
+        "idInternal": 0,
+        "valueGuidInternal": null,
+        "WwiseObjectReference": {
+          "fileID": 0
+        }
+      },
+      "singleTarget": 1,
+      "targetSelf": 0
+    }
+  ]
+}

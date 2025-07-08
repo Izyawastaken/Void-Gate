@@ -1,0 +1,21 @@
+const monsterNames = [
+  "cherufe",
+  "cockatrice",
+  "domovoy",
+  "gargoyle",
+  "grimoire",
+  "jotunn",
+  "mandragora",
+  "mephisto",
+  "naga",
+  "nosferatu",
+  "ooze",
+  "orthrus",
+  "shambler",
+  "star_spawn",
+  "target_dummy",
+  "tatzelwurm",
+  "warden",
+  "wolpertinger",
+  "wyrmling"
+];

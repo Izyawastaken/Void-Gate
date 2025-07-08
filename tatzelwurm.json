@@ -1,0 +1,401 @@
+{
+  "name": "Tatzelwurm",
+  "id": "1007",
+  "stats": {
+    "basemaxhealth": 30
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Earth Ritual",
+        "description": "",
+        "guid": "f631f72b5505e2be05785e457a110293"
+      },
+      {
+        "name": "Envenom",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Overslime",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Poison Wave",
+        "description": "",
+        "guid": "44f0bbfaea890c54ba7ac73a8c2f2bdc"
+      },
+      {
+        "name": "Slime Shot",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Slime Volley",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Smog",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Toxic Eruption",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Toxic Healing",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Toxic Sprawl",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Bloom",
+        "description": "",
+        "guid": "710158c1704cd3e47af4f87068476cac"
+      },
+      {
+        "name": "Viral Bloom Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Chain Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cutting Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Blast",
+        "description": "",
+        "guid": "5638c84bda5c8d54e9864e6b98c46602"
+      },
+      {
+        "name": "Fire Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Generate Force",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Ice Spears",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Jewel Cutter",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Lightning Chaos",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Precision Meteor",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stone Edge",
+        "description": "",
+        "guid": "1365573ef966c2c4bb477bf4efdf8037"
+      },
+      {
+        "name": "Boil",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Crystalize",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Explosive Release",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Immersion",
+        "description": "",
+        "guid": "010433cc834e97d4ba0ebfae16bb1d45"
+      },
+      {
+        "name": "Mud Fist",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Rain of Life",
+        "description": "",
+        "guid": "010433cc834e97d4ba0ebfae16bb1d45"
+      },
+      {
+        "name": "Regeneration Bloom",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Regrow",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Water Tone",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Fatal Upkeep",
+        "description": "Debuffs deal {0} more damage against enemies.",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Fear Toxin",
+        "description": "'{Poison} on enemies with {Terror} does {Wild Damage} and deals [1] extra damage for every {0} {Terror} stacks on the enemy.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Incubation",
+        "description": "'{Poison} no longer triggers at the start of turn. {Poison} damage is doubled. This applies to both allies and enemies.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Plague",
+        "description": "'Whenever {Poison} triggers on an enemy: Applies {Poison} to all other enemies.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Poison Glands",
+        "description": "'{Retaliate}: Applies {1} {Poison} to the enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Polluted Aether",
+        "description": "'{On Attack}: Consumes up to one {Earth} [Aether] to deal a {0;3} {Earth} damage [Hit] and apply {1;1} {Poison} to {target enemy}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Proliferate",
+        "description": "'Whenever this monster applies a debuff: Deals a {3} {Earth}/{Water} damage [Hit] to the enemy.'",
+        "guid": "2a064287d2e1aa641bcbaa7757f968d4"
+      },
+      {
+        "name": "Toxic Assault",
+        "description": "'On every {0} [Crits]: Applies {1} {Poison}, then triggers {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Cycle",
+        "description": "'For every {0} {Poison} stacks applied to enemies: Applies {Regeneration} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Earth",
+        "description": "'{On Earth Action from any ally}: Applies {Poison} to each enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Shielding",
+        "description": "'Whenever {Shield} is applied to an ally: Applies {Poison} to the enemy with the lowest amount of {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Assault Shield",
+        "description": "'{On Crit}: {Shields} the ally with the lowest amount of {Shield} for {1}.'",
+        "guid": "51d4f31bda5e0e2428cbfdf6cb8e1c04"
+      },
+      {
+        "name": "Burning Mark",
+        "description": "Allies gain +{0%} {Crit Chance} against enemies for every stack of {Burn} on them.",
+        "guid": "03aeba241cdc5a24db9357cfef0242fe"
+      },
+      {
+        "name": "Critical Aether",
+        "description": "'On every {0} [Crits]: Generates {Wild} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Critical Hybridization",
+        "description": "'{On Crit}: Deals a {3} {Wild Damage} [Hit].'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Critical Purging",
+        "description": "'On every {0} [Crits]: {Purges} {1} enemy [Aether].'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Cruelty",
+        "description": "'At the start of combat and whenever an enemy is staggered: Applies {1} {Force} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Evasion Mastery",
+        "description": "'{Crit Chance} on allies also increases their {Evasion} by {0%} of that amount.'",
+        "guid": "d74e0ba9438f30d45a5ff9f960109a9b"
+      },
+      {
+        "name": "Hunt",
+        "description": "Allies gain +{0%} {Crit Chance}.",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Sidecrits",
+        "description": "This monster\u2019s {Sidekick} {Attack} is always {critical}.",
+        "guid": "82c924007b844c0449446136dcce44bf"
+      },
+      {
+        "name": "Sleight of Hand",
+        "description": "+{0} {Crit Damage}. Every {third} [Hit] of an {Action} is a {Critical Hit}. For multi-target {Actions}, it is every {second} hit against each enemy instead.",
+        "guid": "ca5108287f608704faaf324d1d7024be"
+      },
+      {
+        "name": "Vigorous Edge",
+        "description": "Your allies gain +{0%} {Crit Chance} for every {Regeneration} stack on them. Each {Attack} consumes [1] {Regeneration}.",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Aethereal Regeneration",
+        "description": "'For every {0} consumed {Regeneration} stacks: Generates {1} {Random Aether}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Beacon",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed by an ally: Consumes a {Burn} stack on a random enemy to apply another {Regeneration} stack to the ally.'",
+        "guid": "5b6a01851a7afb0652c7b32703f5da3d"
+      },
+      {
+        "name": "First Aid",
+        "description": "'Whenever {Regeneration} is applied to an ally: Heals them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Instant Regeneration",
+        "description": "'{On Action from any ally}: Triggers {Regeneration} on them.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Leeching Bond",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed on this monster: Deals a {3} {Water} damage hit to all enemies with {Weakness}.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Long-Lived",
+        "description": "'Whenever {Regeneration} stacks are applied to an ally: Applies an additional stack. The healing of {Regeneration} stacks is reduced by {0}.'",
+        "guid": "1e341dd73b1548248ac63904fa706c85"
+      },
+      {
+        "name": "Regenerated Prime",
+        "description": "'When {Regeneration} triggers on an ally with full health: Applies {Power} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Regenerating Water",
+        "description": "'{On Water Action from any ally}: Applies {Regeneration} to the ally with the lowest amount of {Regeneration}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Regeneration Shield",
+        "description": "'Whenever {Regeneration} triggers on an ally: {Shields} them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Rejuvenation",
+        "description": "'Whenever {Regeneration} is consumed by an ally: Cleanses {0} debuff stacks from them and applies them to random enemies.'",
+        "guid": "1ed734e98241c174096b58e5a39dde68"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeBurn",
+        "description": "This Type focuses on Burn stacks, which deal increasing damage to enemies whenever they try to use Aether.",
+        "guid": "57878d5e2d7094d44a9dc8ba5ab9dc72"
+      },
+      {
+        "name": "TypeCritical",
+        "description": "This Type focuses on dealing Critical hits. Great at dealing damage and breaking Poise.",
+        "guid": "da36655999cb69147a09e861269e435c"
+      },
+      {
+        "name": "TypePoison",
+        "description": "This Type focuses on Poison stacks, which deal constant damage to enemies each turn.",
+        "guid": "88dec4aa0dc0bd64990695fc47eb4d42"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Blossoming Strike",
+        "description": "",
+        "guid": "96b2584b68cf0264a8ba8a2e30d6ec6f"
+      },
+      {
+        "name": "Forever Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Leech Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ]
+  }
+}

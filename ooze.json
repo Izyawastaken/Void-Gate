@@ -1,0 +1,390 @@
+{
+  "name": "Ooze",
+  "id": "994",
+  "stats": {
+    "basemaxhealth": 45
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Earth Ritual",
+        "description": "",
+        "guid": "f631f72b5505e2be05785e457a110293"
+      },
+      {
+        "name": "Envenom",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Overslime",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Poison Wave",
+        "description": "",
+        "guid": "44f0bbfaea890c54ba7ac73a8c2f2bdc"
+      },
+      {
+        "name": "Slime Shot",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Slime Volley",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Smog",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Toxic Eruption",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Toxic Healing",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Toxic Sprawl",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Bloom",
+        "description": "",
+        "guid": "710158c1704cd3e47af4f87068476cac"
+      },
+      {
+        "name": "Viral Bloom Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Diamond Charm",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Drift Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Rush",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Flash Guard",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Nature Guard",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Pheromone Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Shield",
+        "description": "",
+        "guid": "d3fe679a91148c8459fb2b4891f33f88"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Thorns",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Winter Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Alchemical Blast",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Gas Burner",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Gem Chaos",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Petal Cleanse",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Snowy Embrace",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Torment Eruption",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Torment Flux",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Torment Nexus",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Wildflower Shield",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Fatal Upkeep",
+        "description": "Debuffs deal {0} more damage against enemies.",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Fear Toxin",
+        "description": "'{Poison} on enemies with {Terror} does {Wild Damage} and deals [1] extra damage for every {0} {Terror} stacks on the enemy.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Incubation",
+        "description": "'{Poison} no longer triggers at the start of turn. {Poison} damage is doubled. This applies to both allies and enemies.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Plague",
+        "description": "'Whenever {Poison} triggers on an enemy: Applies {Poison} to all other enemies.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Poison Glands",
+        "description": "'{Retaliate}: Applies {1} {Poison} to the enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Polluted Aether",
+        "description": "'{On Attack}: Consumes up to one {Earth} [Aether] to deal a {0;3} {Earth} damage [Hit] and apply {1;1} {Poison} to {target enemy}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Proliferate",
+        "description": "'Whenever this monster applies a debuff: Deals a {3} {Earth}/{Water} damage [Hit] to the enemy.'",
+        "guid": "2a064287d2e1aa641bcbaa7757f968d4"
+      },
+      {
+        "name": "Toxic Assault",
+        "description": "'On every {0} [Crits]: Applies {1} {Poison}, then triggers {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Cycle",
+        "description": "'For every {0} {Poison} stacks applied to enemies: Applies {Regeneration} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Earth",
+        "description": "'{On Earth Action from any ally}: Applies {Poison} to each enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Toxic Shielding",
+        "description": "'Whenever {Shield} is applied to an ally: Applies {Poison} to the enemy with the lowest amount of {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Endless Endurance",
+        "description": "'Gains {Aging}. For every {0} Age: Applies {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Flawless Defense",
+        "description": "{Retaliate}: Applies {0;1} {Shield} to self.\\nFor every {1;0} {Shield} gained, gain {Power}.",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Incorruptible",
+        "description": "'{Retaliate}: Applies {0;1} {Shield} to self. On every {1;0} {Retaliates}: Additionally cleanses {1;1} {Corruption} from self.'",
+        "guid": "ceb8974cd1896464dbcea1ffc19ef443"
+      },
+      {
+        "name": "Mesmerize",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {Redirect} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Nimble Guardian",
+        "description": "'Whenever Dodge is applied to this monster: Applies Dodge and Redirect to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Protector",
+        "description": "As long as this monster has {Redirect}, allies gain +{0;0} {Defense} and +{1;0} {Shielding}.",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Return To Aether",
+        "description": "'{Retaliate}: Generates {Random Aether}.'",
+        "guid": "c82225d0fb1867545a667a9f941aa948"
+      },
+      {
+        "name": "Safeguard",
+        "description": "'At the end of your turn, if this monster has less than {0} {Shield}: {Shields} self equal to the difference.'",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Shielded Torment",
+        "description": "'At the end of your turn: {Shields} self for {1} for every debuff stack on it.'",
+        "guid": "064146ef0c646a44d8b44de2ec41e682"
+      },
+      {
+        "name": "Taunt",
+        "description": "'At the start of combat: Applies {0;1} {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "True Grit",
+        "description": "'Whenever {Redirect} is applied to this monster: {Shields} self for {1}.'",
+        "guid": "343c0d9eaab3f9d4db7bb606e848f6ba"
+      },
+      {
+        "name": "Conversion Pact",
+        "description": "'At the end of your turn: Deals a {Fire}/{Water} hit to all enemies; damage equals debuffs cleansed or consumed from allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cosmic Torment",
+        "description": "'For every {0} debuffs applied to allies: Generates {Wild} [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Healthy Cleanse",
+        "description": "'At the start of your turn: Cleanses {1} debuffs from each ally. Whenever a debuff is cleansed from an ally: Heals them and {Shields} them for {1;1}.'",
+        "guid": "352fcaf9e7111e3479d370601803ff1c"
+      },
+      {
+        "name": "Overheat",
+        "description": "'At the end of your turn: Triggers {Burn} on each enemy with {C0} or more {Burn} and applies {1;1} {Burn} to this monster for each one.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Peak Performance",
+        "description": "'Whenever an ally reaches [4] debuff stacks: Applies {Power} and {Shields} them for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Perseverance",
+        "description": "'Whenever a debuff is applied to an ally: {2%} chance to apply {Dodge} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Rejuvenation",
+        "description": "'Whenever {Regeneration} is consumed by an ally: Cleanses {0} debuff stacks from them and applies them to random enemies.'",
+        "guid": "1ed734e98241c174096b58e5a39dde68"
+      },
+      {
+        "name": "Shared Torment",
+        "description": "'Whenever a debuff stack is applied to this monster: Applies the same debuff to another random ally or enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Tainted Power",
+        "description": "'Whenever {Power} is applied to an ally: Applies {Power} and {1;1} {Affliction} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Torment Doubling",
+        "description": "'{On Action}, if the {Action} applied debuffs to enemies: Applies those debuffs another time to the enemies and to self.'",
+        "guid": "9859ad9efe8ecd94281c548779d1dbc2"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypePoison",
+        "description": "This Type focuses on Poison stacks, which deal constant damage to enemies each turn.",
+        "guid": "88dec4aa0dc0bd64990695fc47eb4d42"
+      },
+      {
+        "name": "TypeTank",
+        "description": "This Type focuses on protecting other allies and retaliating against enemies.",
+        "guid": "08cb830e083760b4cb36d32ed951ce80"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": []
+  }
+}

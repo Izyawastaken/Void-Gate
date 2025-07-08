@@ -1,0 +1,421 @@
+{
+  "name": "Shambler",
+  "id": "1317",
+  "stats": {
+    "basemaxhealth": 50
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Diamond Charm",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Drift Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Rush",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Flash Guard",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Nature Guard",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Pheromone Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Shield",
+        "description": "",
+        "guid": "d3fe679a91148c8459fb2b4891f33f88"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Thorns",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Bloom Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Winter Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Ancient Blast",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Cutting Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Earth Ritual",
+        "description": "",
+        "guid": "f631f72b5505e2be05785e457a110293"
+      },
+      {
+        "name": "Energy Charm",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Fire Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Ritual",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Gemstone Fist",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Glimmer",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Healing Brew",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Jewel Charm",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Stoke the Fire",
+        "description": "",
+        "guid": "3b6519fde6e740047ba2dee02dbf3bca"
+      },
+      {
+        "name": "Void Lightning",
+        "description": "",
+        "guid": "e7ee03d015fd35c4b9c8f397c5cc9131"
+      },
+      {
+        "name": "Water Bolt",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      },
+      {
+        "name": "Water Ritual",
+        "description": "",
+        "guid": "a99c9ca1a9b69884b9b393703b93c0fb"
+      },
+      {
+        "name": "Wildflower Harvest",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wildflower Shield",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wild Ritual",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Bolt",
+        "description": "",
+        "guid": "c8adaa8466ea6f244a902bdc9e021a8d"
+      },
+      {
+        "name": "Wind Ritual",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Eon Shield",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Glacier Smash",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Moisturize",
+        "description": "",
+        "guid": "010433cc834e97d4ba0ebfae16bb1d45"
+      },
+      {
+        "name": "Mud Tide",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Whirlpool",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Endless Endurance",
+        "description": "'Gains {Aging}. For every {0} Age: Applies {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Flawless Defense",
+        "description": "{Retaliate}: Applies {0;1} {Shield} to self.\\nFor every {1;0} {Shield} gained, gain {Power}.",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Incorruptible",
+        "description": "'{Retaliate}: Applies {0;1} {Shield} to self. On every {1;0} {Retaliates}: Additionally cleanses {1;1} {Corruption} from self.'",
+        "guid": "ceb8974cd1896464dbcea1ffc19ef443"
+      },
+      {
+        "name": "Mesmerize",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {Redirect} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Nimble Guardian",
+        "description": "'Whenever Dodge is applied to this monster: Applies Dodge and Redirect to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Poison Glands",
+        "description": "'{Retaliate}: Applies {1} {Poison} to the enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Protector",
+        "description": "As long as this monster has {Redirect}, allies gain +{0;0} {Defense} and +{1;0} {Shielding}.",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Return To Aether",
+        "description": "'{Retaliate}: Generates {Random Aether}.'",
+        "guid": "c82225d0fb1867545a667a9f941aa948"
+      },
+      {
+        "name": "Safeguard",
+        "description": "'At the end of your turn, if this monster has less than {0} {Shield}: {Shields} self equal to the difference.'",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Shielded Torment",
+        "description": "'At the end of your turn: {Shields} self for {1} for every debuff stack on it.'",
+        "guid": "064146ef0c646a44d8b44de2ec41e682"
+      },
+      {
+        "name": "Taunt",
+        "description": "'At the start of combat: Applies {0;1} {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "True Grit",
+        "description": "'Whenever {Redirect} is applied to this monster: {Shields} self for {1}.'",
+        "guid": "343c0d9eaab3f9d4db7bb606e848f6ba"
+      },
+      {
+        "name": "Accelerated Generation",
+        "description": "'{On Action}, if it was this monster\u2019s second {Action} of the same turn: Generates {Wild Aether}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Aether Breath",
+        "description": "'For every {0} Aether consumed by allies: Applies {1} {Power} to this monster and triggers an {Attack} against all enemies for [3] x [2] {Wild damage}.'",
+        "guid": "a26bcfff62ac27d488032df4b982b154"
+      },
+      {
+        "name": "Aether Cycle",
+        "description": "'For every {0} [Aether] consumed by allies: Generates {Wild} [Aether].'",
+        "guid": "4638446d9a0a52548aa0d044b4f8841c"
+      },
+      {
+        "name": "Aether Shield",
+        "description": "'Whenever this monster generates or consumes [Aether]: {Shields} self equal to the amount of generated or consumed [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Cosmic Absorption",
+        "description": "'For every {0} damage absorbed by {Shields} on allies: Generates {Wild} Aether.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Cosmic Fire",
+        "description": "Every [3rd] {Fire} [Aether] generated by your allies is converted into {Wild} [Aether]. {Wild} [Aether] also counts as {Fire} [Aether] for the effects of your skills.",
+        "guid": "f1017690a05f8cc9a87f8f7b86886d98"
+      },
+      {
+        "name": "Split Aether",
+        "description": "'{On Attack}: Consumes up to one {Wild} [Aether] to deal a {0;3} {Wild Damage} [Hit] and {purge} {1;1} enemy [Aether].'",
+        "guid": "86b9a2bdf908024702a2ec79fb82cfd9"
+      },
+      {
+        "name": "Synchronous Aging",
+        "description": "'Whenever you reach [5] [Aether] of the same element: Applies {Age} and {Shields} all allies with {Age} for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Synchronous Healing",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Heals all allies for {2} x {1}.'",
+        "guid": "d92675f1e5625bd43ac77114aec609f9"
+      },
+      {
+        "name": "Synchronous Majesty",
+        "description": "'When you reach {0} [Aether] of the same element: {Purges} [1] enemy [Aether] of the same element and applies {Power} to self.'",
+        "guid": "65b479e2ec446d483700749355aef1a2"
+      },
+      {
+        "name": "Synchronous Surge",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Applies {Weakness} and deals {1;3} damage of that element to each enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Void Burn",
+        "description": "'At the start of your turn: Generates {Wild}/{Wild} [Aether]. At the end of your turn: Consumes all {Wild} [Aether] and deals a {1} damage [Hit] to this Monster for each.'",
+        "guid": "f3bbcf6caf626a440a49abd45a408257"
+      },
+      {
+        "name": "Void Infusion",
+        "description": "Whenever {Wild Aether} is spent on an ally's {Action}, its second [Hit] does {Wild Damage}. If it's a {Support Action}, it applies {0} {Terror} to each enemy instead.",
+        "guid": "a787ef7a69a8c414886609cd8a9d2a30"
+      },
+      {
+        "name": "Age Absorption",
+        "description": "'For every {0} damage absorbed by {Shields} on allies: Applies {Age} to all allies with {Age}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Age of Fire",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Burn} stacks to all enemies equal to half of the amount of {Age} stacks on this monster.'",
+        "guid": "6c9637ca3565a58439274bf63c8ea53d"
+      },
+      {
+        "name": "Ancient Power",
+        "description": "'Gains {Aging}. For every {0} Age: Applies {1} {Power} to self.'",
+        "guid": "f8bfe00a6a998a345b0560415883503e"
+      },
+      {
+        "name": "Cosmic Wisdom",
+        "description": "'Gains {Aging}. For every {0} Age: Generates {Wild} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Decay",
+        "description": "'Gains {Aging}. For every {0} Age: Triggers an {Attack} against all enemies with [2] {Earth}/{Water} [Hits]; damage of each [Hit] equals the amount of {Age} stacks on this monster.'",
+        "guid": "e8c90e559ca910146aa31dceebc83e8f"
+      },
+      {
+        "name": "Eldritch Horror",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Terror} stacks to the enemy with the lowest amount of {Terror} equal to the total amount of {Age} on all allies.'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      },
+      {
+        "name": "Experienced Strikes",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Sidekick} to self. {Sidekick} on this monster deals additional damage equal to the amount of {Age} stacks on it.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Golden Age",
+        "description": "'For every {0} Age on an ally: Cleanses {1;1} debuffs from them and applies {Age} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Outlast",
+        "description": "'Gains {Aging}. Whenever Age is applied to this monster: Heals and {Shields} self for {1}.'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeAether",
+        "description": "This Type focuses on generating Aether and also provides you with strong options to utilize excess Aether.",
+        "guid": "1cd5d40de6830894ea8454fcc430edd7"
+      },
+      {
+        "name": "TypeAge",
+        "description": "This Type focuses on Age stacks, which provide a variety of different effects that become more powerful the longer the fight goes on.",
+        "guid": "3fe99efdaf7fd2046afd210bf7fa2ff6"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Forever Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ]
+  }
+}

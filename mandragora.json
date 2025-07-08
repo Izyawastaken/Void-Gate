@@ -1,0 +1,391 @@
+{
+  "name": "Mandragora",
+  "id": "1017",
+  "stats": {
+    "basemaxhealth": 40
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Dust Grasp",
+        "description": "",
+        "guid": "88c928dc5ba14ec459ea1f4972ccad3d"
+      },
+      {
+        "name": "Healing Dust",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Hex Shock",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Pheromone Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Pollen Blast",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Pollen Shield",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Sound Wave",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Growth",
+        "description": "",
+        "guid": "0d0bf27f214519440afd65cc08260e7f"
+      },
+      {
+        "name": "Water Tone",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Boil",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Crystalize",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Explosive Release",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Immersion",
+        "description": "",
+        "guid": "010433cc834e97d4ba0ebfae16bb1d45"
+      },
+      {
+        "name": "Mud Fist",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Rain of Life",
+        "description": "",
+        "guid": "010433cc834e97d4ba0ebfae16bb1d45"
+      },
+      {
+        "name": "Reactive Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Regeneration Bloom",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Regrow",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Toxic Sprawl",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Blood Drain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cleansing Rain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Energy Charm",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Healing Brew",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Natural Cure",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Power Brand",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Charm",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Support",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Vampiric Bite",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      },
+      {
+        "name": "Water Charm",
+        "description": "",
+        "guid": "a99c9ca1a9b69884b9b393703b93c0fb"
+      },
+      {
+        "name": "Windfall",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Contagion",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: {2%} chance to apply {Weakness} to another random enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Hex",
+        "description": "'Whenever an enemy is staggered: Consumes all stacks of {Weakness} on them to generate {Wild} [Aether] for each one.'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Cursed",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {1} {Terror} to that enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Healing Hex",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Heals the ally with the lowest health for {1}.'",
+        "guid": "198309213b93c744ca9e359b4c287c2b"
+      },
+      {
+        "name": "Hexing Strikes",
+        "description": "'{On Single-Target Attack from any ally}, if the enemy has less than [2] {Weakness}: Applies {1} {Weakness} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Leeching Bond",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed on this monster: Deals a {3} {Water} damage hit to all enemies with {Weakness}.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Mesmerize",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {Redirect} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Sensitivity",
+        "description": "'{Weakness} only reduces damage to {0} base damage, but each [Hit] against enemies with {Weakness} deals {1} more damage.'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Synchronous Surge",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Applies {Weakness} and deals {1;3} damage of that element to each enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Warlock Party",
+        "description": "'{On Support Action from any ally}: Applies {1} {Weakness} to the enemy with the lowest amount of {Weakness}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Aethereal Regeneration",
+        "description": "'For every {0} consumed {Regeneration} stacks: Generates {1} {Random Aether}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Beacon",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed by an ally: Consumes a {Burn} stack on a random enemy to apply another {Regeneration} stack to the ally.'",
+        "guid": "5b6a01851a7afb0652c7b32703f5da3d"
+      },
+      {
+        "name": "First Aid",
+        "description": "'Whenever {Regeneration} is applied to an ally: Heals them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Instant Regeneration",
+        "description": "'{On Action from any ally}: Triggers {Regeneration} on them.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Long-Lived",
+        "description": "'Whenever {Regeneration} stacks are applied to an ally: Applies an additional stack. The healing of {Regeneration} stacks is reduced by {0}.'",
+        "guid": "1e341dd73b1548248ac63904fa706c85"
+      },
+      {
+        "name": "Regenerated Prime",
+        "description": "'When {Regeneration} triggers on an ally with full health: Applies {Power} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Regenerating Water",
+        "description": "'{On Water Action from any ally}: Applies {Regeneration} to the ally with the lowest amount of {Regeneration}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Regeneration Shield",
+        "description": "'Whenever {Regeneration} triggers on an ally: {Shields} them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Rejuvenation",
+        "description": "'Whenever {Regeneration} is consumed by an ally: Cleanses {0} debuff stacks from them and applies them to random enemies.'",
+        "guid": "1ed734e98241c174096b58e5a39dde68"
+      },
+      {
+        "name": "Toxic Cycle",
+        "description": "'For every {0} {Poison} stacks applied to enemies: Applies {Regeneration} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Vigorous Edge",
+        "description": "Your allies gain +{0%} {Crit Chance} for every {Regeneration} stack on them. Each {Attack} consumes [1] {Regeneration}.",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Ascension",
+        "description": "'For every {0} healing of your allies: Applies {1} {Power} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Auto Heal",
+        "description": "'{On Attack}: Heals the ally with the lowest health by {2} x {1}.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Blood Pact",
+        "description": "'At the end of your turn: Deals a {Water} [Hit] to all enemies; damage equals [1] for every {0} healing received by allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cleanse Corruption",
+        "description": "'Whenever an ally is healed to full health: Cleanses {1} {Corruption} from them.'",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Conversion Pact",
+        "description": "'At the end of your turn: Deals a {Fire}/{Water} hit to all enemies; damage equals debuffs cleansed or consumed from allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cosmic Healing",
+        "description": "'For every {0} healing of your allies: Generates {1} {Wild} Aether.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Power Healing",
+        "description": "'Whenever {Power} is applied to this monster: Heals each ally for {1}.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Quicken",
+        "description": "'For every {0} healing this monster receives or applies to other monsters: Applies {Sidekick} to self.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Synchronous Healing",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Heals all allies for {2} x {1}.'",
+        "guid": "d92675f1e5625bd43ac77114aec609f9"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeWeakness",
+        "description": "This Type focuses on Weakness stacks, which can come in clutch to prevent damage from big enemy attacks.",
+        "guid": "ed1ef4aeeff549c47948eb85aa8cb664"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeRegeneration",
+        "description": "This Type focuses on Regeneration stacks, which provide constant sustain throughout combat.",
+        "guid": "62e0ae4c640cde94488c4e972f4220f6"
+      },
+      {
+        "name": "TypeHeal",
+        "description": "This Type focuses on healing allies and providing strong utility effects through healing.",
+        "guid": "08cb830e083760b4cb36d32ed951ce80"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lava Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Blossoming Strike",
+        "description": "",
+        "guid": "96b2584b68cf0264a8ba8a2e30d6ec6f"
+      },
+      {
+        "name": "Forever Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Leech Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ]
+  }
+}

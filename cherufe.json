@@ -1,0 +1,376 @@
+{
+  "name": "Cherufe",
+  "id": "718",
+  "stats": {
+    "basemaxhealth": 40
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Chain Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cutting Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Blast",
+        "description": "",
+        "guid": "5638c84bda5c8d54e9864e6b98c46602"
+      },
+      {
+        "name": "Fire Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Generate Force",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Ice Spears",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Jewel Cutter",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Lightning Chaos",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Precision Meteor",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stone Edge",
+        "description": "",
+        "guid": "1365573ef966c2c4bb477bf4efdf8037"
+      },
+      {
+        "name": "Ball Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Drown",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Ritual",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Hex Shock",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Icy Purge",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Fling",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Tide",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stealing Dust",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Stolen Gemstone",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Wildflower Harvest",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Heist",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Alchemical Charge",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Bonfire",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Burn Conversion",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Burn Wave",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Flash Burn",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Gas Burner",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stoke the Fire",
+        "description": "",
+        "guid": "3b6519fde6e740047ba2dee02dbf3bca"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Assault Shield",
+        "description": "'{On Crit}: {Shields} the ally with the lowest amount of {Shield} for {1}.'",
+        "guid": "51d4f31bda5e0e2428cbfdf6cb8e1c04"
+      },
+      {
+        "name": "Burning Mark",
+        "description": "Allies gain +{0%} {Crit Chance} against enemies for every stack of {Burn} on them.",
+        "guid": "03aeba241cdc5a24db9357cfef0242fe"
+      },
+      {
+        "name": "Critical Aether",
+        "description": "'On every {0} [Crits]: Generates {Wild} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Critical Hybridization",
+        "description": "'{On Crit}: Deals a {3} {Wild Damage} [Hit].'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Critical Purging",
+        "description": "'On every {0} [Crits]: {Purges} {1} enemy [Aether].'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Cruelty",
+        "description": "'At the start of combat and whenever an enemy is staggered: Applies {1} {Force} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Evasion Mastery",
+        "description": "'{Crit Chance} on allies also increases their {Evasion} by {0%} of that amount.'",
+        "guid": "d74e0ba9438f30d45a5ff9f960109a9b"
+      },
+      {
+        "name": "Hunt",
+        "description": "Allies gain +{0%} {Crit Chance}.",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Sidecrits",
+        "description": "This monster\u2019s {Sidekick} {Attack} is always {critical}.",
+        "guid": "82c924007b844c0449446136dcce44bf"
+      },
+      {
+        "name": "Sleight of Hand",
+        "description": "+{0} {Crit Damage}. Every {third} [Hit] of an {Action} is a {Critical Hit}. For multi-target {Actions}, it is every {second} hit against each enemy instead.",
+        "guid": "ca5108287f608704faaf324d1d7024be"
+      },
+      {
+        "name": "Toxic Assault",
+        "description": "'On every {0} [Crits]: Applies {1} {Poison}, then triggers {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Vigorous Edge",
+        "description": "Your allies gain +{0%} {Crit Chance} for every {Regeneration} stack on them. Each {Attack} consumes [1] {Regeneration}.",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Aether Fiend",
+        "description": "'Whenever an ally {purges} or {steals} [Aether]: Generates {1} additional [Aether] of the same element. Allies take {0} more damage from all [Hits].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Aggressive Purging",
+        "description": "'On every {0} [Attacks] from allies: {Purges} {1} enemy [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Controlled Burn",
+        "description": "'For every Aether {purged} or {stolen} by allies: Applies {1} {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Disruptive Prime",
+        "description": "'For every {0} [Aether] {purged} or {stolen} by this monster: Applies {Power} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Exploit",
+        "description": "'{On Interrupt}: Applies {Sidekick} to self.'",
+        "guid": "d37e5fec9a79f214499e018880985198"
+      },
+      {
+        "name": "Poise Purging",
+        "description": "'Whenever this Monster {purges} or {steals} [Aether]: Breaks {1} {Poise} of the same element on all enemies.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Shock",
+        "description": "'{On Interrupt}: Deals a {3} {Fire}/{Wind} damage [Hit] to that enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Split Aether",
+        "description": "'{On Attack}: Consumes up to one {Wild} [Aether] to deal a {0;3} {Wild Damage} [Hit] and {purge} {1;1} enemy [Aether].'",
+        "guid": "86b9a2bdf908024702a2ec79fb82cfd9"
+      },
+      {
+        "name": "Tormentor",
+        "description": "'{On Interrupt}: Applies {0;1} {Terror} to that enemy and heals self for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Age of Fire",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Burn} stacks to all enemies equal to half of the amount of {Age} stacks on this monster.'",
+        "guid": "6c9637ca3565a58439274bf63c8ea53d"
+      },
+      {
+        "name": "Beacon",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed by an ally: Consumes a {Burn} stack on a random enemy to apply another {Regeneration} stack to the ally.'",
+        "guid": "5b6a01851a7afb0652c7b32703f5da3d"
+      },
+      {
+        "name": "Burning Desire",
+        "description": "'For every {0} {Burn} applied to enemies: {Shields} all allies for {1}.'",
+        "guid": "2b9fd9ec5ba94df4e8f7833f9e69a361"
+      },
+      {
+        "name": "Burning Fire",
+        "description": "'For every {0} {Fire} [Aether] consumed by allies: Applies {Burn} to all enemies.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Fire",
+        "description": "Every [3rd] {Fire} [Aether] generated by your allies is converted into {Wild} [Aether]. {Wild} [Aether] also counts as {Fire} [Aether] for the effects of your skills.",
+        "guid": "f1017690a05f8cc9a87f8f7b86886d98"
+      },
+      {
+        "name": "Electrical Burn",
+        "description": "'Whenever an enemy reaches [5] {Burn} stacks: Deals a {Fire}/{Wind} [Hit] with {3} damage to that enemy and applies {Dodge} to self.'",
+        "guid": "034b743e07ee87844befe402ecacaa06"
+      },
+      {
+        "name": "Enkindled Aether",
+        "description": "'{On Attack}: Consumes up to one {Fire} [Aether] to deal a {0;3} {Fire} damage [Hit] and apply {1;1} {Burn} to {target enemy}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Kindle",
+        "description": "'For every {0} {Burn} applied to enemies: Generates {Fire} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Overheat",
+        "description": "'At the end of your turn: Triggers {Burn} on each enemy with {C0} or more {Burn} and applies {1;1} {Burn} to this monster for each one.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Overwhelming Heat",
+        "description": "'{On Attack}: Applies {1} Burn to target enemy for every {Power} stack on this monster.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Rapid Fire",
+        "description": "'Whenever an enemy gets {attacked} for the second time in the same turn: Triggers {Burn} on them.'",
+        "guid": "7ebbaa59dc351c74baf8e6e23b60c374"
+      },
+      {
+        "name": "Rising Fire",
+        "description": "'Whenever {Burn} triggers on an enemy: Applies {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lava Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lightning Charge",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ]
+  }
+}

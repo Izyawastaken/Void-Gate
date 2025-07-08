@@ -1,0 +1,371 @@
+{
+  "name": "Gargoyle",
+  "id": "1248",
+  "stats": {
+    "basemaxhealth": 35
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Air Dart",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Comet Rush",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Deep Breath",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Dust Strike",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Ember Dart",
+        "description": "",
+        "guid": "985badd6357ced6448a295c950de4a29"
+      },
+      {
+        "name": "Lava Surge",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Meteor Charm",
+        "description": "",
+        "guid": "bd1eb8436d9c7024296820cd010793b3"
+      },
+      {
+        "name": "Power Brand",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Transmutation",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Void Lightning",
+        "description": "",
+        "guid": "e7ee03d015fd35c4b9c8f397c5cc9131"
+      },
+      {
+        "name": "Volcanic Essence",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Charge Up",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Energy Rush",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Petal Spell",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Snow Support",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Stolen Gemstone",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Temporal Borealis",
+        "description": "",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      },
+      {
+        "name": "Wind Ritual",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Diamond Charm",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Gemstone Fist",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Glacier Shield",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Glacier Smash",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Icy Purge",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lightning Shield",
+        "description": "",
+        "guid": "8fabe527ebf6af641b0cd2412e9e90a5"
+      },
+      {
+        "name": "Snow Charm",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snowy Embrace",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Stone Fist",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Aether Breath",
+        "description": "'For every {0} Aether consumed by allies: Applies {1} {Power} to this monster and triggers an {Attack} against all enemies for [3] x [2] {Wild damage}.'",
+        "guid": "a26bcfff62ac27d488032df4b982b154"
+      },
+      {
+        "name": "Flawless Defense",
+        "description": "{Retaliate}: Applies {0;1} {Shield} to self.\\nFor every {1;0} {Shield} gained, gain {Power}.",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Magnus Hit",
+        "description": "'{On Attack}: Deals a [Hit] with damage equal to the total amount of {Power} in the party.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Meditation",
+        "description": "'On every {0} {Support Actions}: Applies {Power} to self.'",
+        "guid": "a342789ccde75bd4796ff17d2a9be355"
+      },
+      {
+        "name": "Momentum",
+        "description": "'On every {0} {Attacks}: Applies {Power} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Overwhelming Heat",
+        "description": "'{On Attack}: Applies {1} Burn to target enemy for every {Power} stack on this monster.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Peak Calamity",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Power} to that ally.'",
+        "guid": "2c1359346ad931e4da6373faeed4a928"
+      },
+      {
+        "name": "Power Generator",
+        "description": "'For every {0} {Power} applied to allies: Generates [1] {random Aether}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Power Healing",
+        "description": "'Whenever {Power} is applied to this monster: Heals each ally for {1}.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Prime Absorption",
+        "description": "'For every {0} damage absorbed by {Shields} on allies: Applies {Power} to the ally with the lowest amount of {Power}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Serpentine Maneuvers",
+        "description": "'For every {0} [Hits] evaded by your allies: Applies {Power} to the ally with the lowest amount of {Power}.'",
+        "guid": "91999750871f9f64f9716b6aa391d3da"
+      },
+      {
+        "name": "Support Attacks",
+        "description": "'{On Support Action}: Deals a {3} damage [Hit] to {target enemy} and triggers {On Attack} effects.'",
+        "guid": "ee39c3df2b608df293c64887af32d361"
+      },
+      {
+        "name": "Tainted Power",
+        "description": "'Whenever {Power} is applied to an ally: Applies {Power} and {1;1} {Affliction} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Experienced Strikes",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Sidekick} to self. {Sidekick} on this monster deals additional damage equal to the amount of {Age} stacks on it.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Exploit",
+        "description": "'{On Interrupt}: Applies {Sidekick} to self.'",
+        "guid": "d37e5fec9a79f214499e018880985198"
+      },
+      {
+        "name": "Helping Winds",
+        "description": "'For every {0} {Wind} [Aether] consumed by allies: Applies {Sidekick} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Indomitable Attacks",
+        "description": "'{On Attack}: Cleanses {0;1} debuffs from self and heals self for {1;1}.'",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      },
+      {
+        "name": "Joint Protection",
+        "description": "'Whenever an ally triggers {Sidekick}: {Shields} both attackers for {0}.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Leadership",
+        "description": "As long as this monster has {Sidekick}, other allies gain +{0} {Damage}.",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Make It Double",
+        "description": "'{Sidekick} {Attacks} on allies deals {2} x {2} damage [Hits].'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      },
+      {
+        "name": "Martial Prowess",
+        "description": "'Whenever an ally evades a [Hit]: Applies {Sidekick} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Quicken",
+        "description": "'For every {0} healing this monster receives or applies to other monsters: Applies {Sidekick} to self.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Sidecrits",
+        "description": "This monster\u2019s {Sidekick} {Attack} is always {critical}.",
+        "guid": "82c924007b844c0449446136dcce44bf"
+      },
+      {
+        "name": "Sidekick Generator",
+        "description": "'Whenever {Sidekick} is applied to this monster: Generates {1} {random Aether}.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Slasher",
+        "description": "'{Attacks} of your allies increase the amount of {Terror} on the [attacked] enemies by {0%}, rounded up, instead of consuming stacks. At the end of your turn: {1%} of all {Terror} stacks on enemies are consumed, rounded up.'",
+        "guid": "5c9e7e07b9ba1a8488132a60dbe233cd"
+      },
+      {
+        "name": "Age Absorption",
+        "description": "'For every {0} damage absorbed by {Shields} on allies: Applies {Age} to all allies with {Age}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Assault Shield",
+        "description": "'{On Crit}: {Shields} the ally with the lowest amount of {Shield} for {1}.'",
+        "guid": "51d4f31bda5e0e2428cbfdf6cb8e1c04"
+      },
+      {
+        "name": "Burning Desire",
+        "description": "'For every {0} {Burn} applied to enemies: {Shields} all allies for {1}.'",
+        "guid": "2b9fd9ec5ba94df4e8f7833f9e69a361"
+      },
+      {
+        "name": "Cosmic Absorption",
+        "description": "'For every {0} damage absorbed by {Shields} on allies: Generates {Wild} Aether.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Emergency Response",
+        "description": "'At the start of your turn: {Shields} all allies for {1}; triggers one more time for allies with {C0%} or less health.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Permafrost",
+        "description": "Instead of {Shields} on allies vanishing at the start of your turn, half of all {Shields} are retained, rounded up.",
+        "guid": "ac1c5952f1b48ae00b57e0264889619f"
+      },
+      {
+        "name": "Shield Hit",
+        "description": "'{On Attack}: Deals a [Hit] with damage equal to half this monster''s {Shield}, rounded up.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Shielding Winds",
+        "description": "'{On Wind Action from any ally}: {Shields} each ally for {1}.'",
+        "guid": "37b40d8bb97db6b4c9dffd63ec06d8c5"
+      },
+      {
+        "name": "Tactical Shields",
+        "description": "Allies with [7] or more {Shield} gain +{1} {Damage} and +{1;0%} {Crit Chance}.",
+        "guid": "87fadb294fff114428779cc66aea7070"
+      },
+      {
+        "name": "Toxic Shielding",
+        "description": "'Whenever {Shield} is applied to an ally: Applies {Poison} to the enemy with the lowest amount of {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "True Grit",
+        "description": "'Whenever {Redirect} is applied to this monster: {Shields} self for {1}.'",
+        "guid": "343c0d9eaab3f9d4db7bb606e848f6ba"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeShield",
+        "description": "This Type focuses on protecting allies through Shielding, which can prevent Corruption.",
+        "guid": "57878d5e2d7094d44a9dc8ba5ab9dc72"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Icy Assault",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Overheated Smash",
+        "description": "",
+        "guid": "73949a5a729acf84ab4cf9beba4cd369"
+      },
+      {
+        "name": "Aerial Strike",
+        "description": "",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      }
+    ]
+  }
+}

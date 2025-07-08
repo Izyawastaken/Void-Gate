@@ -1,0 +1,361 @@
+{
+  "name": "Wolpertinger",
+  "id": "297",
+  "stats": {
+    "basemaxhealth": 35
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Chain Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cutting Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Blast",
+        "description": "",
+        "guid": "5638c84bda5c8d54e9864e6b98c46602"
+      },
+      {
+        "name": "Fire Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Generate Force",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Ice Spears",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Jewel Cutter",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Lightning Chaos",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Precision Meteor",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stone Edge",
+        "description": "",
+        "guid": "1365573ef966c2c4bb477bf4efdf8037"
+      },
+      {
+        "name": "Ball Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Drown",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Ritual",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Hex Shock",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Icy Purge",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Fling",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Tide",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stealing Dust",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Stolen Gemstone",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Wildflower Harvest",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Heist",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Charge Up",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Comet Rush",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Energy Rush",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Petal Spell",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Snow Support",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Temporal Borealis",
+        "description": "",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      },
+      {
+        "name": "Wind Ritual",
+        "description": "",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Assault Shield",
+        "description": "'{On Crit}: {Shields} the ally with the lowest amount of {Shield} for {1}.'",
+        "guid": "51d4f31bda5e0e2428cbfdf6cb8e1c04"
+      },
+      {
+        "name": "Burning Mark",
+        "description": "Allies gain +{0%} {Crit Chance} against enemies for every stack of {Burn} on them.",
+        "guid": "03aeba241cdc5a24db9357cfef0242fe"
+      },
+      {
+        "name": "Critical Aether",
+        "description": "'On every {0} [Crits]: Generates {Wild} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Critical Hybridization",
+        "description": "'{On Crit}: Deals a {3} {Wild Damage} [Hit].'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Critical Purging",
+        "description": "'On every {0} [Crits]: {Purges} {1} enemy [Aether].'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Cruelty",
+        "description": "'At the start of combat and whenever an enemy is staggered: Applies {1} {Force} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Evasion Mastery",
+        "description": "'{Crit Chance} on allies also increases their {Evasion} by {0%} of that amount.'",
+        "guid": "d74e0ba9438f30d45a5ff9f960109a9b"
+      },
+      {
+        "name": "Hunt",
+        "description": "Allies gain +{0%} {Crit Chance}.",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Sidecrits",
+        "description": "This monster\u2019s {Sidekick} {Attack} is always {critical}.",
+        "guid": "82c924007b844c0449446136dcce44bf"
+      },
+      {
+        "name": "Sleight of Hand",
+        "description": "+{0} {Crit Damage}. Every {third} [Hit] of an {Action} is a {Critical Hit}. For multi-target {Actions}, it is every {second} hit against each enemy instead.",
+        "guid": "ca5108287f608704faaf324d1d7024be"
+      },
+      {
+        "name": "Toxic Assault",
+        "description": "'On every {0} [Crits]: Applies {1} {Poison}, then triggers {Poison}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Vigorous Edge",
+        "description": "Your allies gain +{0%} {Crit Chance} for every {Regeneration} stack on them. Each {Attack} consumes [1] {Regeneration}.",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Aether Fiend",
+        "description": "'Whenever an ally {purges} or {steals} [Aether]: Generates {1} additional [Aether] of the same element. Allies take {0} more damage from all [Hits].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Aggressive Purging",
+        "description": "'On every {0} [Attacks] from allies: {Purges} {1} enemy [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Controlled Burn",
+        "description": "'For every Aether {purged} or {stolen} by allies: Applies {1} {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Disruptive Prime",
+        "description": "'For every {0} [Aether] {purged} or {stolen} by this monster: Applies {Power} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Exploit",
+        "description": "'{On Interrupt}: Applies {Sidekick} to self.'",
+        "guid": "d37e5fec9a79f214499e018880985198"
+      },
+      {
+        "name": "Poise Purging",
+        "description": "'Whenever this Monster {purges} or {steals} [Aether]: Breaks {1} {Poise} of the same element on all enemies.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Shock",
+        "description": "'{On Interrupt}: Deals a {3} {Fire}/{Wind} damage [Hit] to that enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Split Aether",
+        "description": "'{On Attack}: Consumes up to one {Wild} [Aether] to deal a {0;3} {Wild Damage} [Hit] and {purge} {1;1} enemy [Aether].'",
+        "guid": "86b9a2bdf908024702a2ec79fb82cfd9"
+      },
+      {
+        "name": "Tormentor",
+        "description": "'{On Interrupt}: Applies {0;1} {Terror} to that enemy and heals self for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Experienced Strikes",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Sidekick} to self. {Sidekick} on this monster deals additional damage equal to the amount of {Age} stacks on it.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Helping Winds",
+        "description": "'For every {0} {Wind} [Aether] consumed by allies: Applies {Sidekick} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Indomitable Attacks",
+        "description": "'{On Attack}: Cleanses {0;1} debuffs from self and heals self for {1;1}.'",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      },
+      {
+        "name": "Joint Protection",
+        "description": "'Whenever an ally triggers {Sidekick}: {Shields} both attackers for {0}.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Leadership",
+        "description": "As long as this monster has {Sidekick}, other allies gain +{0} {Damage}.",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Make It Double",
+        "description": "'{Sidekick} {Attacks} on allies deals {2} x {2} damage [Hits].'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      },
+      {
+        "name": "Martial Prowess",
+        "description": "'Whenever an ally evades a [Hit]: Applies {Sidekick} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Quicken",
+        "description": "'For every {0} healing this monster receives or applies to other monsters: Applies {Sidekick} to self.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Sidekick Generator",
+        "description": "'Whenever {Sidekick} is applied to this monster: Generates {1} {random Aether}.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Slasher",
+        "description": "'{Attacks} of your allies increase the amount of {Terror} on the [attacked] enemies by {0%}, rounded up, instead of consuming stacks. At the end of your turn: {1%} of all {Terror} stacks on enemies are consumed, rounded up.'",
+        "guid": "5c9e7e07b9ba1a8488132a60dbe233cd"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeCritical",
+        "description": "This Type focuses on dealing Critical hits. Great at dealing damage and breaking Poise.",
+        "guid": "da36655999cb69147a09e861269e435c"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Aerial Strike",
+        "description": "",
+        "guid": "f494e7007e6387243855a297993c49b5"
+      }
+    ]
+  }
+}

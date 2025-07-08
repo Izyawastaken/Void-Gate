@@ -1,0 +1,396 @@
+{
+  "name": "Warden",
+  "id": "951",
+  "stats": {
+    "basemaxhealth": 45
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Dust Grasp",
+        "description": "",
+        "guid": "88c928dc5ba14ec459ea1f4972ccad3d"
+      },
+      {
+        "name": "Healing Dust",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Hex Shock",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Pheromone Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Pollen Blast",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Pollen Shield",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Sound Wave",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Growth",
+        "description": "",
+        "guid": "0d0bf27f214519440afd65cc08260e7f"
+      },
+      {
+        "name": "Water Tone",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Diamond Charm",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Drift Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Rush",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Flash Guard",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Nature Guard",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Reactive Shield",
+        "description": "",
+        "guid": "d3fe679a91148c8459fb2b4891f33f88"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Thorns",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Bloom Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Winter Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Ball Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Drown",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Ritual",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Icy Purge",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Fling",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Tide",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lightning Chaos",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Stealing Dust",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Stolen Gemstone",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Wildflower Harvest",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Heist",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Contagion",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: {2%} chance to apply {Weakness} to another random enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Hex",
+        "description": "'Whenever an enemy is staggered: Consumes all stacks of {Weakness} on them to generate {Wild} [Aether] for each one.'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Cursed",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {1} {Terror} to that enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Healing Hex",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Heals the ally with the lowest health for {1}.'",
+        "guid": "198309213b93c744ca9e359b4c287c2b"
+      },
+      {
+        "name": "Hexing Strikes",
+        "description": "'{On Single-Target Attack from any ally}, if the enemy has less than [2] {Weakness}: Applies {1} {Weakness} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Leeching Bond",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed on this monster: Deals a {3} {Water} damage hit to all enemies with {Weakness}.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Mesmerize",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {Redirect} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Sensitivity",
+        "description": "'{Weakness} only reduces damage to {0} base damage, but each [Hit] against enemies with {Weakness} deals {1} more damage.'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Synchronous Surge",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Applies {Weakness} and deals {1;3} damage of that element to each enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Warlock Party",
+        "description": "'{On Support Action from any ally}: Applies {1} {Weakness} to the enemy with the lowest amount of {Weakness}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Endless Endurance",
+        "description": "'Gains {Aging}. For every {0} Age: Applies {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Flawless Defense",
+        "description": "{Retaliate}: Applies {0;1} {Shield} to self.\\nFor every {1;0} {Shield} gained, gain {Power}.",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Incorruptible",
+        "description": "'{Retaliate}: Applies {0;1} {Shield} to self. On every {1;0} {Retaliates}: Additionally cleanses {1;1} {Corruption} from self.'",
+        "guid": "ceb8974cd1896464dbcea1ffc19ef443"
+      },
+      {
+        "name": "Nimble Guardian",
+        "description": "'Whenever Dodge is applied to this monster: Applies Dodge and Redirect to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Poison Glands",
+        "description": "'{Retaliate}: Applies {1} {Poison} to the enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Protector",
+        "description": "As long as this monster has {Redirect}, allies gain +{0;0} {Defense} and +{1;0} {Shielding}.",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Return To Aether",
+        "description": "'{Retaliate}: Generates {Random Aether}.'",
+        "guid": "c82225d0fb1867545a667a9f941aa948"
+      },
+      {
+        "name": "Safeguard",
+        "description": "'At the end of your turn, if this monster has less than {0} {Shield}: {Shields} self equal to the difference.'",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Shielded Torment",
+        "description": "'At the end of your turn: {Shields} self for {1} for every debuff stack on it.'",
+        "guid": "064146ef0c646a44d8b44de2ec41e682"
+      },
+      {
+        "name": "Taunt",
+        "description": "'At the start of combat: Applies {0;1} {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "True Grit",
+        "description": "'Whenever {Redirect} is applied to this monster: {Shields} self for {1}.'",
+        "guid": "343c0d9eaab3f9d4db7bb606e848f6ba"
+      },
+      {
+        "name": "Aether Fiend",
+        "description": "'Whenever an ally {purges} or {steals} [Aether]: Generates {1} additional [Aether] of the same element. Allies take {0} more damage from all [Hits].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Aggressive Purging",
+        "description": "'On every {0} [Attacks] from allies: {Purges} {1} enemy [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Controlled Burn",
+        "description": "'For every Aether {purged} or {stolen} by allies: Applies {1} {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Critical Purging",
+        "description": "'On every {0} [Crits]: {Purges} {1} enemy [Aether].'",
+        "guid": "4ac5db2621f820587cfa25fcc861e438"
+      },
+      {
+        "name": "Disruptive Prime",
+        "description": "'For every {0} [Aether] {purged} or {stolen} by this monster: Applies {Power} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Exploit",
+        "description": "'{On Interrupt}: Applies {Sidekick} to self.'",
+        "guid": "d37e5fec9a79f214499e018880985198"
+      },
+      {
+        "name": "Poise Purging",
+        "description": "'Whenever this Monster {purges} or {steals} [Aether]: Breaks {1} {Poise} of the same element on all enemies.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Shock",
+        "description": "'{On Interrupt}: Deals a {3} {Fire}/{Wind} damage [Hit] to that enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Split Aether",
+        "description": "'{On Attack}: Consumes up to one {Wild} [Aether] to deal a {0;3} {Wild Damage} [Hit] and {purge} {1;1} enemy [Aether].'",
+        "guid": "86b9a2bdf908024702a2ec79fb82cfd9"
+      },
+      {
+        "name": "Tormentor",
+        "description": "'{On Interrupt}: Applies {0;1} {Terror} to that enemy and heals self for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeWeakness",
+        "description": "This Type focuses on Weakness stacks, which can come in clutch to prevent damage from big enemy attacks.",
+        "guid": "ed1ef4aeeff549c47948eb85aa8cb664"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypePurge",
+        "description": "This Type focuses on purging enemy Aether, which can prevent enemy Actions and minimize the damage you take from them.",
+        "guid": "2208bf4ba4cafb240ae04919e0d3ebd5"
+      },
+      {
+        "name": "TypeTank",
+        "description": "This Type focuses on protecting other allies and retaliating against enemies.",
+        "guid": "08cb830e083760b4cb36d32ed951ce80"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lava Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Burst",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ]
+  }
+}

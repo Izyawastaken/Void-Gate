@@ -1,0 +1,155 @@
+{
+  "name": "Target Dummy",
+  "id": "619",
+  "stats": {
+    "basemaxhealth": 9999
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Blood Drain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cleansing Rain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Energy Charm",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Healing Brew",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Natural Cure",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Power Brand",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Charm",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Support",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Vampiric Bite",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      },
+      {
+        "name": "Water Charm",
+        "description": "",
+        "guid": "a99c9ca1a9b69884b9b393703b93c0fb"
+      },
+      {
+        "name": "Windfall",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Ascension",
+        "description": "'For every {0} healing of your allies: Applies {1} {Power} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Auto Heal",
+        "description": "'{On Attack}: Heals the ally with the lowest health by {2} x {1}.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Blood Pact",
+        "description": "'At the end of your turn: Deals a {Water} [Hit] to all enemies; damage equals [1] for every {0} healing received by allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cleanse Corruption",
+        "description": "'Whenever an ally is healed to full health: Cleanses {1} {Corruption} from them.'",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Conversion Pact",
+        "description": "'At the end of your turn: Deals a {Fire}/{Water} hit to all enemies; damage equals debuffs cleansed or consumed from allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cosmic Healing",
+        "description": "'For every {0} healing of your allies: Generates {1} {Wild} Aether.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "First Aid",
+        "description": "'Whenever {Regeneration} is applied to an ally: Heals them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Healing Hex",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Heals the ally with the lowest health for {1}.'",
+        "guid": "198309213b93c744ca9e359b4c287c2b"
+      },
+      {
+        "name": "Power Healing",
+        "description": "'Whenever {Power} is applied to this monster: Heals each ally for {1}.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Quicken",
+        "description": "'For every {0} healing this monster receives or applies to other monsters: Applies {Sidekick} to self.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Synchronous Healing",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Heals all allies for {2} x {1}.'",
+        "guid": "d92675f1e5625bd43ac77114aec609f9"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": []
+  }
+}

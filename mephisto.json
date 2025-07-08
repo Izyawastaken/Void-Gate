@@ -1,0 +1,386 @@
+{
+  "name": "Mephisto",
+  "id": "1316",
+  "stats": {
+    "basemaxhealth": 40
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Bone Chill",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Chilling Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Doom Bloom",
+        "description": "",
+        "guid": "3212056a70a1a3d4798c13bd09efcdc9"
+      },
+      {
+        "name": "Foreboding Rain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Frightful Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Hail Storm",
+        "description": "",
+        "guid": "6442ae0b9c1cee145848e29be9716458"
+      },
+      {
+        "name": "Hellfire Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Torment Nexus",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Vampiric Bite",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Alchemical Charge",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Bonfire",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Burn Conversion",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Burn Wave",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Flash Burn",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Gas Burner",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Fling",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stoke the Fire",
+        "description": "",
+        "guid": "3b6519fde6e740047ba2dee02dbf3bca"
+      },
+      {
+        "name": "Alchemical Blast",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Gem Chaos",
+        "description": "",
+        "guid": "f01b4f1cc90fb444ebe98a888eb458a0"
+      },
+      {
+        "name": "Overslime",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Petal Cleanse",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Shield",
+        "description": "",
+        "guid": "d3fe679a91148c8459fb2b4891f33f88"
+      },
+      {
+        "name": "Snowy Embrace",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Torment Eruption",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Torment Flux",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Wildflower Shield",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Blind",
+        "description": "'Enemies with {Terror} have a {0%} chance to miss each [Hit]. Whenever an enemy misses a [Hit]: Applies {Terror} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Horror",
+        "description": "'At the start of your turn: Generates {Wild} [Aether] for every enemy with {C0} or more {Terror}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Cursed",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {1} {Terror} to that enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Eldritch Horror",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Terror} stacks to the enemy with the lowest amount of {Terror} equal to the total amount of {Age} on all allies.'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      },
+      {
+        "name": "Fear Toxin",
+        "description": "'{Poison} on enemies with {Terror} does {Wild Damage} and deals [1] extra damage for every {0} {Terror} stacks on the enemy.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Nightmare",
+        "description": "'At the start of your turn: Deals a {Wild Damage} [Hit] with {3} damage to all enemies with {C0} or more {Terror}.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Panic",
+        "description": "'Whenever a {Wild Damage} [Hit] staggers an enemy: {Purges} {0} enemy [Aether] and applies {1} {Terror} to each other enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Peak Calamity",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Power} to that ally.'",
+        "guid": "2c1359346ad931e4da6373faeed4a928"
+      },
+      {
+        "name": "Shadow Meld",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Dodge} to that ally.'",
+        "guid": "2f98d73eb3493994d9982ff120c9338a"
+      },
+      {
+        "name": "Slasher",
+        "description": "'{Attacks} of your allies increase the amount of {Terror} on the [attacked] enemies by {0%}, rounded up, instead of consuming stacks. At the end of your turn: {1%} of all {Terror} stacks on enemies are consumed, rounded up.'",
+        "guid": "5c9e7e07b9ba1a8488132a60dbe233cd"
+      },
+      {
+        "name": "Tormentor",
+        "description": "'{On Interrupt}: Applies {0;1} {Terror} to that enemy and heals self for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Void Infusion",
+        "description": "Whenever {Wild Aether} is spent on an ally's {Action}, its second [Hit] does {Wild Damage}. If it's a {Support Action}, it applies {0} {Terror} to each enemy instead.",
+        "guid": "a787ef7a69a8c414886609cd8a9d2a30"
+      },
+      {
+        "name": "Wild Fear",
+        "description": "'{Wild Damage} [Hits] of your allies gain +{0} {Poise Damage}.'",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Age of Fire",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Burn} stacks to all enemies equal to half of the amount of {Age} stacks on this monster.'",
+        "guid": "6c9637ca3565a58439274bf63c8ea53d"
+      },
+      {
+        "name": "Beacon",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed by an ally: Consumes a {Burn} stack on a random enemy to apply another {Regeneration} stack to the ally.'",
+        "guid": "5b6a01851a7afb0652c7b32703f5da3d"
+      },
+      {
+        "name": "Burning Desire",
+        "description": "'For every {0} {Burn} applied to enemies: {Shields} all allies for {1}.'",
+        "guid": "2b9fd9ec5ba94df4e8f7833f9e69a361"
+      },
+      {
+        "name": "Burning Fire",
+        "description": "'For every {0} {Fire} [Aether] consumed by allies: Applies {Burn} to all enemies.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Burning Mark",
+        "description": "Allies gain +{0%} {Crit Chance} against enemies for every stack of {Burn} on them.",
+        "guid": "03aeba241cdc5a24db9357cfef0242fe"
+      },
+      {
+        "name": "Controlled Burn",
+        "description": "'For every Aether {purged} or {stolen} by allies: Applies {1} {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Fire",
+        "description": "Every [3rd] {Fire} [Aether] generated by your allies is converted into {Wild} [Aether]. {Wild} [Aether] also counts as {Fire} [Aether] for the effects of your skills.",
+        "guid": "f1017690a05f8cc9a87f8f7b86886d98"
+      },
+      {
+        "name": "Electrical Burn",
+        "description": "'Whenever an enemy reaches [5] {Burn} stacks: Deals a {Fire}/{Wind} [Hit] with {3} damage to that enemy and applies {Dodge} to self.'",
+        "guid": "034b743e07ee87844befe402ecacaa06"
+      },
+      {
+        "name": "Enkindled Aether",
+        "description": "'{On Attack}: Consumes up to one {Fire} [Aether] to deal a {0;3} {Fire} damage [Hit] and apply {1;1} {Burn} to {target enemy}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Kindle",
+        "description": "'For every {0} {Burn} applied to enemies: Generates {Fire} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Overheat",
+        "description": "'At the end of your turn: Triggers {Burn} on each enemy with {C0} or more {Burn} and applies {1;1} {Burn} to this monster for each one.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Overwhelming Heat",
+        "description": "'{On Attack}: Applies {1} Burn to target enemy for every {Power} stack on this monster.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Rapid Fire",
+        "description": "'Whenever an enemy gets {attacked} for the second time in the same turn: Triggers {Burn} on them.'",
+        "guid": "7ebbaa59dc351c74baf8e6e23b60c374"
+      },
+      {
+        "name": "Rising Fire",
+        "description": "'Whenever {Burn} triggers on an enemy: Applies {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Conversion Pact",
+        "description": "'At the end of your turn: Deals a {Fire}/{Water} hit to all enemies; damage equals debuffs cleansed or consumed from allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cosmic Torment",
+        "description": "'For every {0} debuffs applied to allies: Generates {Wild} [Aether].'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Healthy Cleanse",
+        "description": "'At the start of your turn: Cleanses {1} debuffs from each ally. Whenever a debuff is cleansed from an ally: Heals them and {Shields} them for {1;1}.'",
+        "guid": "352fcaf9e7111e3479d370601803ff1c"
+      },
+      {
+        "name": "Peak Performance",
+        "description": "'Whenever an ally reaches [4] debuff stacks: Applies {Power} and {Shields} them for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Perseverance",
+        "description": "'Whenever a debuff is applied to an ally: {2%} chance to apply {Dodge} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Rejuvenation",
+        "description": "'Whenever {Regeneration} is consumed by an ally: Cleanses {0} debuff stacks from them and applies them to random enemies.'",
+        "guid": "1ed734e98241c174096b58e5a39dde68"
+      },
+      {
+        "name": "Shared Torment",
+        "description": "'Whenever a debuff stack is applied to this monster: Applies the same debuff to another random ally or enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Shielded Torment",
+        "description": "'At the end of your turn: {Shields} self for {1} for every debuff stack on it.'",
+        "guid": "064146ef0c646a44d8b44de2ec41e682"
+      },
+      {
+        "name": "Tainted Power",
+        "description": "'Whenever {Power} is applied to an ally: Applies {Power} and {1;1} {Affliction} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Torment Doubling",
+        "description": "'{On Action}, if the {Action} applied debuffs to enemies: Applies those debuffs another time to the enemies and to self.'",
+        "guid": "9859ad9efe8ecd94281c548779d1dbc2"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeAffliction",
+        "description": "This Type focuses on applying debuffs to your own monsters, providing benefits for doing so.",
+        "guid": "d2d0fd5a999061b45ba52d5dbf02536e"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypeBurn",
+        "description": "This Type focuses on Burn stacks, which deal increasing damage to enemies whenever they try to use Aether.",
+        "guid": "57878d5e2d7094d44a9dc8ba5ab9dc72"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lava Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lightning Charge",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ]
+  }
+}

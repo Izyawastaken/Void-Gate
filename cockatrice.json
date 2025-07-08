@@ -1,0 +1,401 @@
+{
+  "name": "Cockatrice",
+  "id": "1340",
+  "stats": {
+    "basemaxhealth": 45
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Chilling Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Elixir",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Glimmer",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Reflective Trap",
+        "description": "",
+        "guid": "88c928dc5ba14ec459ea1f4972ccad3d"
+      },
+      {
+        "name": "Solar Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Charm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Diamond Charm",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Drift Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Explosive Rush",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Flash Guard",
+        "description": "",
+        "guid": "43198d118b99a444098ae6200282bb58"
+      },
+      {
+        "name": "Gemstone Crash",
+        "description": "",
+        "guid": "a5b782e8cda3b2e478319ce9df086e84"
+      },
+      {
+        "name": "Nature Guard",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Pheromone Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Reactive Shield",
+        "description": "",
+        "guid": "d3fe679a91148c8459fb2b4891f33f88"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Thorns",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Viral Bloom Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Volcanic Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Winter Guard",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Alchemical Charge",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Bonfire",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Burn Conversion",
+        "description": "",
+        "guid": "a447c668eb45b894ca2e128763141e2c"
+      },
+      {
+        "name": "Burn Wave",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Fire Storm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Flash Burn",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Gas Burner",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Lava Fling",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Stoke the Fire",
+        "description": "",
+        "guid": "3b6519fde6e740047ba2dee02dbf3bca"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Afterstorm",
+        "description": "'Whenever an ally evades a [Hit]: Deals a {3} {Wind} damage [Hit] to the attacker.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Concealed",
+        "description": "'At the start of your turn, if this monster did not {attack} in this combat yet: Applies {Dodge} and {Shields} self for {0}.'",
+        "guid": "36cf034985769a7f684b13d5022599ef"
+      },
+      {
+        "name": "Electrical Burn",
+        "description": "'Whenever an enemy reaches [5] {Burn} stacks: Deals a {Fire}/{Wind} [Hit] with {3} damage to that enemy and applies {Dodge} to self.'",
+        "guid": "034b743e07ee87844befe402ecacaa06"
+      },
+      {
+        "name": "Evasion Mastery",
+        "description": "'{Crit Chance} on allies also increases their {Evasion} by {0%} of that amount.'",
+        "guid": "d74e0ba9438f30d45a5ff9f960109a9b"
+      },
+      {
+        "name": "Eye of the Storm",
+        "description": "'For every {0} {Wind} or {Wild damage} dealt to enemies: Applies {Dodge} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Haste",
+        "description": "'{Dodge} now only increases {Evasion} by {0%} per stack and doesn\u2019t get consumed when attacked. After an ally\u2019s turn, they consume {1} stacks of {Dodge} to {reactivate} their turn.'",
+        "guid": "7737c956b9c992c449e2deb6aee51d2b"
+      },
+      {
+        "name": "Martial Prowess",
+        "description": "'Whenever an ally evades a [Hit]: Applies {Sidekick} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Nimble Guardian",
+        "description": "'Whenever Dodge is applied to this monster: Applies Dodge and Redirect to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Perseverance",
+        "description": "'Whenever a debuff is applied to an ally: {2%} chance to apply {Dodge} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Serpentine Maneuvers",
+        "description": "'For every {0} [Hits] evaded by your allies: Applies {Power} to the ally with the lowest amount of {Power}.'",
+        "guid": "91999750871f9f64f9716b6aa391d3da"
+      },
+      {
+        "name": "Shadow Meld",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Dodge} to that ally.'",
+        "guid": "2f98d73eb3493994d9982ff120c9338a"
+      },
+      {
+        "name": "Tailwind",
+        "description": "'Whenever an ally evades a [Hit]: Generates {Wind} Aether; if you have {3} or more {Wind} Aether, {Wild} Aether is generated instead. '",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Endless Endurance",
+        "description": "'Gains {Aging}. For every {0} Age: Applies {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Flawless Defense",
+        "description": "{Retaliate}: Applies {0;1} {Shield} to self.\\nFor every {1;0} {Shield} gained, gain {Power}.",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Incorruptible",
+        "description": "'{Retaliate}: Applies {0;1} {Shield} to self. On every {1;0} {Retaliates}: Additionally cleanses {1;1} {Corruption} from self.'",
+        "guid": "ceb8974cd1896464dbcea1ffc19ef443"
+      },
+      {
+        "name": "Mesmerize",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {Redirect} to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Poison Glands",
+        "description": "'{Retaliate}: Applies {1} {Poison} to the enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Protector",
+        "description": "As long as this monster has {Redirect}, allies gain +{0;0} {Defense} and +{1;0} {Shielding}.",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Purge Punishment",
+        "description": "'{Retaliate}: If this monster has {C0%} or more health, {purges} {1} enemy [Aether].'",
+        "guid": "9aa94b3209f24944fac013fff5607824"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Return To Aether",
+        "description": "'{Retaliate}: Generates {Random Aether}.'",
+        "guid": "c82225d0fb1867545a667a9f941aa948"
+      },
+      {
+        "name": "Safeguard",
+        "description": "'At the end of your turn, if this monster has less than {0} {Shield}: {Shields} self equal to the difference.'",
+        "guid": "61c04a3097ce2414aa301752c08acfc3"
+      },
+      {
+        "name": "Shielded Torment",
+        "description": "'At the end of your turn: {Shields} self for {1} for every debuff stack on it.'",
+        "guid": "064146ef0c646a44d8b44de2ec41e682"
+      },
+      {
+        "name": "Taunt",
+        "description": "'At the start of combat: Applies {0;1} {Redirect} and {Shields} self for {1;2} x {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "True Grit",
+        "description": "'Whenever {Redirect} is applied to this monster: {Shields} self for {1}.'",
+        "guid": "343c0d9eaab3f9d4db7bb606e848f6ba"
+      },
+      {
+        "name": "Age of Fire",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Burn} stacks to all enemies equal to half of the amount of {Age} stacks on this monster.'",
+        "guid": "6c9637ca3565a58439274bf63c8ea53d"
+      },
+      {
+        "name": "Beacon",
+        "description": "'Whenever one or more {Regeneration} stacks are consumed by an ally: Consumes a {Burn} stack on a random enemy to apply another {Regeneration} stack to the ally.'",
+        "guid": "5b6a01851a7afb0652c7b32703f5da3d"
+      },
+      {
+        "name": "Burning Desire",
+        "description": "'For every {0} {Burn} applied to enemies: {Shields} all allies for {1}.'",
+        "guid": "2b9fd9ec5ba94df4e8f7833f9e69a361"
+      },
+      {
+        "name": "Burning Fire",
+        "description": "'For every {0} {Fire} [Aether] consumed by allies: Applies {Burn} to all enemies.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Burning Mark",
+        "description": "Allies gain +{0%} {Crit Chance} against enemies for every stack of {Burn} on them.",
+        "guid": "03aeba241cdc5a24db9357cfef0242fe"
+      },
+      {
+        "name": "Controlled Burn",
+        "description": "'For every Aether {purged} or {stolen} by allies: Applies {1} {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Fire",
+        "description": "Every [3rd] {Fire} [Aether] generated by your allies is converted into {Wild} [Aether]. {Wild} [Aether] also counts as {Fire} [Aether] for the effects of your skills.",
+        "guid": "f1017690a05f8cc9a87f8f7b86886d98"
+      },
+      {
+        "name": "Enkindled Aether",
+        "description": "'{On Attack}: Consumes up to one {Fire} [Aether] to deal a {0;3} {Fire} damage [Hit] and apply {1;1} {Burn} to {target enemy}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Kindle",
+        "description": "'For every {0} {Burn} applied to enemies: Generates {Fire} [Aether].'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Overheat",
+        "description": "'At the end of your turn: Triggers {Burn} on each enemy with {C0} or more {Burn} and applies {1;1} {Burn} to this monster for each one.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Overwhelming Heat",
+        "description": "'{On Attack}: Applies {1} Burn to target enemy for every {Power} stack on this monster.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Rapid Fire",
+        "description": "'Whenever an enemy gets {attacked} for the second time in the same turn: Triggers {Burn} on them.'",
+        "guid": "7ebbaa59dc351c74baf8e6e23b60c374"
+      },
+      {
+        "name": "Rising Fire",
+        "description": "'Whenever {Burn} triggers on an enemy: Applies {Burn} to the enemy with the lowest amount of {Burn}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeTank",
+        "description": "This Type focuses on protecting other allies and retaliating against enemies.",
+        "guid": "08cb830e083760b4cb36d32ed951ce80"
+      },
+      {
+        "name": "TypeBurn",
+        "description": "This Type focuses on Burn stacks, which deal increasing damage to enemies whenever they try to use Aether.",
+        "guid": "57878d5e2d7094d44a9dc8ba5ab9dc72"
+      },
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lightning Charge",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Speed of Sound",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Lava Soup",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      }
+    ]
+  }
+}

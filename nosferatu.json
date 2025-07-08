@@ -1,0 +1,366 @@
+{
+  "name": "Nosferatu",
+  "id": "7187",
+  "stats": {
+    "basemaxhealth": 40
+  },
+  "description": "",
+  "sprite_guid": null,
+  "buffs": [],
+  "linked": {
+    "passives": [],
+    "perks": [],
+    "spells": [
+      {
+        "name": "Chilling Trap",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Elixir",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Glimmer",
+        "description": "",
+        "guid": "570f1030755fc094aaab59875e9a5d62"
+      },
+      {
+        "name": "Reflective Trap",
+        "description": "",
+        "guid": "88c928dc5ba14ec459ea1f4972ccad3d"
+      },
+      {
+        "name": "Solar Wind",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Wind Charm",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Bone Chill",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Doom Bloom",
+        "description": "",
+        "guid": "3212056a70a1a3d4798c13bd09efcdc9"
+      },
+      {
+        "name": "Foreboding Rain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Frightful Lightning",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Hail Storm",
+        "description": "",
+        "guid": "6442ae0b9c1cee145848e29be9716458"
+      },
+      {
+        "name": "Hellfire Bolt",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Torment Nexus",
+        "description": "",
+        "guid": "75c610b154f9ce64293639141206a85d"
+      },
+      {
+        "name": "Vampiric Bite",
+        "description": "",
+        "guid": "2ac83262a307e714b8c3e2f86aa5c5d4"
+      },
+      {
+        "name": "Wild Mark",
+        "description": "",
+        "guid": "3ce8f68d3c39a484d054642870659648"
+      },
+      {
+        "name": "Blood Drain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Cleansing Rain",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Energy Charm",
+        "description": "",
+        "guid": "471876176991fd14a98e1adeef3ab5c3"
+      },
+      {
+        "name": "Healing Brew",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Natural Cure",
+        "description": "",
+        "guid": "bedf10066eee853458908a3eca81e1a8"
+      },
+      {
+        "name": "Power Brand",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Charm",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Mark",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Snow Support",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Water Charm",
+        "description": "",
+        "guid": "a99c9ca1a9b69884b9b393703b93c0fb"
+      },
+      {
+        "name": "Windfall",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ],
+    "summonattacks": [],
+    "techs": [],
+    "traits": [
+      {
+        "name": "Afterstorm",
+        "description": "'Whenever an ally evades a [Hit]: Deals a {3} {Wind} damage [Hit] to the attacker.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Concealed",
+        "description": "'At the start of your turn, if this monster did not {attack} in this combat yet: Applies {Dodge} and {Shields} self for {0}.'",
+        "guid": "36cf034985769a7f684b13d5022599ef"
+      },
+      {
+        "name": "Electrical Burn",
+        "description": "'Whenever an enemy reaches [5] {Burn} stacks: Deals a {Fire}/{Wind} [Hit] with {3} damage to that enemy and applies {Dodge} to self.'",
+        "guid": "034b743e07ee87844befe402ecacaa06"
+      },
+      {
+        "name": "Evasion Mastery",
+        "description": "'{Crit Chance} on allies also increases their {Evasion} by {0%} of that amount.'",
+        "guid": "d74e0ba9438f30d45a5ff9f960109a9b"
+      },
+      {
+        "name": "Eye of the Storm",
+        "description": "'For every {0} {Wind} or {Wild damage} dealt to enemies: Applies {Dodge} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Haste",
+        "description": "'{Dodge} now only increases {Evasion} by {0%} per stack and doesn\u2019t get consumed when attacked. After an ally\u2019s turn, they consume {1} stacks of {Dodge} to {reactivate} their turn.'",
+        "guid": "7737c956b9c992c449e2deb6aee51d2b"
+      },
+      {
+        "name": "Martial Prowess",
+        "description": "'Whenever an ally evades a [Hit]: Applies {Sidekick} to them. '",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Nimble Guardian",
+        "description": "'Whenever Dodge is applied to this monster: Applies Dodge and Redirect to self.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Perseverance",
+        "description": "'Whenever a debuff is applied to an ally: {2%} chance to apply {Dodge} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Serpentine Maneuvers",
+        "description": "'For every {0} [Hits] evaded by your allies: Applies {Power} to the ally with the lowest amount of {Power}.'",
+        "guid": "91999750871f9f64f9716b6aa391d3da"
+      },
+      {
+        "name": "Shadow Meld",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Dodge} to that ally.'",
+        "guid": "2f98d73eb3493994d9982ff120c9338a"
+      },
+      {
+        "name": "Tailwind",
+        "description": "'Whenever an ally evades a [Hit]: Generates {Wind} Aether; if you have {3} or more {Wind} Aether, {Wild} Aether is generated instead. '",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Blind",
+        "description": "'Enemies with {Terror} have a {0%} chance to miss each [Hit]. Whenever an enemy misses a [Hit]: Applies {Terror} to them.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Cosmic Horror",
+        "description": "'At the start of your turn: Generates {Wild} [Aether] for every enemy with {C0} or more {Terror}.'",
+        "guid": "57ad8449f3d95a1335f7a7170c905d57"
+      },
+      {
+        "name": "Cursed",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Applies {1} {Terror} to that enemy.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Eldritch Horror",
+        "description": "'Gains {Aging}. For every {0} {Age}: Applies {Terror} stacks to the enemy with the lowest amount of {Terror} equal to the total amount of {Age} on all allies.'",
+        "guid": "7ea2ec18975becc7963f57872dafd340"
+      },
+      {
+        "name": "Fear Toxin",
+        "description": "'{Poison} on enemies with {Terror} does {Wild Damage} and deals [1] extra damage for every {0} {Terror} stacks on the enemy.'",
+        "guid": "22f70e71a9129c14ebb1ccf77532d7b2"
+      },
+      {
+        "name": "Nightmare",
+        "description": "'At the start of your turn: Deals a {Wild Damage} [Hit] with {3} damage to all enemies with {C0} or more {Terror}.'",
+        "guid": "ab1b7fb221e40cc84cbc32d3c19599eb"
+      },
+      {
+        "name": "Panic",
+        "description": "'Whenever a {Wild Damage} [Hit] staggers an enemy: {Purges} {0} enemy [Aether] and applies {1} {Terror} to each other enemy.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Peak Calamity",
+        "description": "'Whenever an ally [attacks] an enemy with {0} or more {Terror}: Applies {Power} to that ally.'",
+        "guid": "2c1359346ad931e4da6373faeed4a928"
+      },
+      {
+        "name": "Slasher",
+        "description": "'{Attacks} of your allies increase the amount of {Terror} on the [attacked] enemies by {0%}, rounded up, instead of consuming stacks. At the end of your turn: {1%} of all {Terror} stacks on enemies are consumed, rounded up.'",
+        "guid": "5c9e7e07b9ba1a8488132a60dbe233cd"
+      },
+      {
+        "name": "Tormentor",
+        "description": "'{On Interrupt}: Applies {0;1} {Terror} to that enemy and heals self for {1;1}.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Void Infusion",
+        "description": "Whenever {Wild Aether} is spent on an ally's {Action}, its second [Hit] does {Wild Damage}. If it's a {Support Action}, it applies {0} {Terror} to each enemy instead.",
+        "guid": "a787ef7a69a8c414886609cd8a9d2a30"
+      },
+      {
+        "name": "Wild Fear",
+        "description": "'{Wild Damage} [Hits] of your allies gain +{0} {Poise Damage}.'",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Ascension",
+        "description": "'For every {0} healing of your allies: Applies {1} {Power} to each ally.'",
+        "guid": "3ac3681d51d1cf52f41a5c0d04ef25b1"
+      },
+      {
+        "name": "Auto Heal",
+        "description": "'{On Attack}: Heals the ally with the lowest health by {2} x {1}.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "Blood Pact",
+        "description": "'At the end of your turn: Deals a {Water} [Hit] to all enemies; damage equals [1] for every {0} healing received by allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cleanse Corruption",
+        "description": "'Whenever an ally is healed to full health: Cleanses {1} {Corruption} from them.'",
+        "guid": "270f933425b01ead24444956193b6707"
+      },
+      {
+        "name": "Conversion Pact",
+        "description": "'At the end of your turn: Deals a {Fire}/{Water} hit to all enemies; damage equals debuffs cleansed or consumed from allies this round.'",
+        "guid": "8119bc80d236d954ebf4bcd48e61ac88"
+      },
+      {
+        "name": "Cosmic Healing",
+        "description": "'For every {0} healing of your allies: Generates {1} {Wild} Aether.'",
+        "guid": "b56f33962cf31dad304d74cd9aed03eb"
+      },
+      {
+        "name": "First Aid",
+        "description": "'Whenever {Regeneration} is applied to an ally: Heals them for {1}.'",
+        "guid": "74555c279622c34458fac32d3d1ae54d"
+      },
+      {
+        "name": "Healing Hex",
+        "description": "'Whenever an enemy\u2019s {Weakness} is consumed: Heals the ally with the lowest health for {1}.'",
+        "guid": "198309213b93c744ca9e359b4c287c2b"
+      },
+      {
+        "name": "Power Healing",
+        "description": "'Whenever {Power} is applied to this monster: Heals each ally for {1}.'",
+        "guid": "4e1ffa955260ab94b8b24c1e76bf6fb5"
+      },
+      {
+        "name": "Quicken",
+        "description": "'For every {0} healing this monster receives or applies to other monsters: Applies {Sidekick} to self.'",
+        "guid": "d4ccc9e5e7051a641af56583f98199ec"
+      },
+      {
+        "name": "Recovery",
+        "description": "'At the start of your turn: This monster heals itself equal to [1]/{0} of the damage it took last round.'",
+        "guid": "5f81bcf15511679d7b0285494a352b37"
+      },
+      {
+        "name": "Synchronous Healing",
+        "description": "'Whenever you reach {5} [Aether] of the same element: Heals all allies for {2} x {1}.'",
+        "guid": "d92675f1e5625bd43ac77114aec609f9"
+      }
+    ],
+    "types": [
+      {
+        "name": "TypeSignatureTraits",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "67a17d9e00c767d4f8c0c8f51835e9da"
+      },
+      {
+        "name": "TypeTerror",
+        "description": "This Type focuses on Terror stacks, which increase damage from Attacks and help with breaking Poise.",
+        "guid": "4c43fda82a0eecd4aa8f2a6fccec8ed2"
+      },
+      {
+        "name": "TypeStartingActions",
+        "description": "RequiredToLearnActions: 0",
+        "guid": "59420b0e85323244ea9e942687c22705"
+      },
+      {
+        "name": "TypeHeal",
+        "description": "This Type focuses on healing allies and providing strong utility effects through healing.",
+        "guid": "08cb830e083760b4cb36d32ed951ce80"
+      }
+    ],
+    "upgrades": [],
+    "buffs": [],
+    "attacks": [
+      {
+        "name": "Lightning Charge",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      },
+      {
+        "name": "Speed of Sound",
+        "description": "",
+        "guid": "5b8ccd57e2eb8791b31c13af54994420"
+      }
+    ]
+  }
+}
